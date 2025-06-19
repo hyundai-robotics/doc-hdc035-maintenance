@@ -1,14 +1,24 @@
-﻿# 5.2 보관 방법
+# 5.2 Storing method
 
-협동로봇을 설치하지 않고 보관할 경우 적절한 자세로 설정한 후 다음 사항을 참고하여 보관하십시오.
+In storing the collaborative robot without installing it, set it at the adequate posture and then store it, referring to the following instructions:
 
-* 보관 시 적절한 모델별 협동로봇의 자세는 제품을 운반하는 경우와 동일합니다.
-* 협동로봇은 포장된 상태로 보관하고 전원 및 통신 연결 부분은 단단히 밀봉하십시오.
-* 협동로봇을 장기간 보관할 때는 반드시 전도 위험에 대한 안전 조치를 취하십시오.
-* 협동로봇을 포장 자재로 감싸 보관하는 경우에는 흡습제와 함께 포장하거나 건조한 장소에 보관하십시오. 습기가 많은 장소에 보관하면 포장 자재 내부에 습기가 생겨 제품이 손상될 수 있습니다.
-* 온도와 습도가 변하기 쉬운 곳(결로 현상이 있는 곳)을 피하고 주위 온도가 -15 ℃ ∼ 40 ℃인 서늘하고 건조한 장소에 협동로봇을 보관하십시오.
-* 화학 제품, 산성 및 알칼리 제품, 배터리, 차단기 등이 있는 장소에 협동로봇을 보관하지 마십시오.
+*   The adequate robot posture for storing is the same as that for moving it.
+
+
+*   Store the collaborative robot as it is packaged, ensuring its power and communication connections are firmly sealed.
+
+
+*   In storing it for a long time, make sure to take safety measures to prevent it from tumbling.
+
+
+*   In storing the collaborative robot wrapped with packaging materials, store it at a dry place, or put moisture absorbent in the package. Storing the robot at a high-humidity place may create moisture inside the packaging material, which may cause product damages.
+
+
+*   In storing the collaborative robot, avoid a place of high variations in temperature and humidity (where dew condensation occurs), and store it at a dry and cool place of an ambient temperature between -15°C and 40°C.
+
+
+* Do not store the collaborative robot at a place where chemicals, acid, or alkali products, batteries, circuit breakers, etc. are placed.
 
 {% hint style="warning" %}
-**\[주의]**: 보수 설명서에서 권장하는 자세 이외의 다른 자세로 협동로봇을 설정하여 보관하면 제품이 넘어져 파손될 수 있습니다.
+**\[Caution]**: Storing the collaborative robot by setting it at a posture other than that recommended in the maintenance manual may cause the product to tumble and incur damage.
 {% endhint %}

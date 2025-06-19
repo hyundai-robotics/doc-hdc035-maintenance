@@ -1,9 +1,14 @@
-﻿# 4.1.2 배선 점검
+# 4.1.2 Wiring check
 
-협동로봇 내부의 배선은 굴곡성을 견딜 수 있는 케이블을 사용하고 있습니다. 배선의 손상 및 케이블의 파손 등으로 단선 또는 단락되어 로봇 동작에 문제가 발생할 수 있으므로 주기적으로 배선을 확실히 점검하십시오.
+The internal wiring of the collaborative robot uses cables that can withstand bending. Because disconnection or short circuit caused by damaged cables may lead to malfunction of the robot, make sure to check on the wiring at regular intervals.
 
-로봇의 가동 범위 내에서 로봇 티칭 등의 작업을 수행할 경우(산업용 로봇의 구동원을 차단시키는 것은 제외)에는 작업 시작 전에 반드시 다음의 **안전 점검 조건**을 먼저 점검하십시오. 문제가 있으면 즉시 해결하고 필요한 조치를 취하십시오.
+Before starting activities such as robot teaching within the operating space of the robot (excluding cases where the driving power of the industrial robot is cut off), make sure to check the following safety check requirements. If any problems are found, resolve them and take necessary actions immediately.
 
-* 외부 전원의 피복과 케이블의 손상 유무 확인
-* 로봇 본체의 동작 이상 유무 확인
-* 비상 정지 기능의 동작 확인
+*   Check on damaged shields and cables of the external power source.
+
+
+*   Check on the malfunction of the robot manipulator.
+
+
+*   Check on the operability of the emergency stop function.
+

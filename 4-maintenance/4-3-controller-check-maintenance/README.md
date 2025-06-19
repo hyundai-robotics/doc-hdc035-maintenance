@@ -1,3 +1,3 @@
-﻿# 4.3 제어기 점검 및 보수
+# 4.3 Controller check and maintenance
 
-제어기는 바닥에 고정하여 사용하는 장치로 기계적인 손상이 발생하지 않습니다. 따라서 사용 기간에 따른 기계적 손상은 점검하지 않아도 됩니다. 다만 제어기를 자주 이동하거나 충격이 가해졌을 경우 제어기의 케이블과 커넥터를 확인해야 합니다.
+Because the controller is fixated to a floor, it is not subject to mechanical damages. Therefore, the controller does not need to be checked for mechanical damages over the course of its service life. However, when the controller is repositioned or when it has been impacted, its cables and connectors must be checked.

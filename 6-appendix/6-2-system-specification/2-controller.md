@@ -1,11 +1,11 @@
-﻿# 6.2.2 제어기
+# 6.2.2 Controller
 
-|    **항목**   |            **사양**           |
-| :---------: | :-------------------------: |
-|      중량     |            27 kg            |
-|      크기     | 260(W) x 490(H) x 510(D) mm |
-|   방진방수 등급   |            IP 20            |
-|      소음     |           80 dB 이하          |
-|  디지털 입출력 포트 |        DIO 8/8 points       |
-| 아날로그 입출력 포트 |        AIO 2/2 points       |
-|   정격 공급 전압  |           AC 220 V          |
+|       **Division**       |        **Specification**       |
+| :----------------------: | :----------------------------: |
+|          Weight          |              27 kg             |
+|        Dimensions        | 260 (W) × 490 (H) × 510 (D) mm |
+| Ingress protection grade |              IP 20             |
+|           Noise          |          80dB or less          |
+|     Digital I/O ports    |         DIO 8/8 points         |
+|     Analog I/O ports     |         AIO 2/2 points         |
+|   Rated supply voltage   |            AC 220 V            |

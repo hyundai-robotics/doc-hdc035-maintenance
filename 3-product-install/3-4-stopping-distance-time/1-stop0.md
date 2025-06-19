@@ -1,9 +1,18 @@
-﻿# 3.4.1 정지0 (STOP1)
+# 3.4.1 STOP 0
 
-STOP0 시, 확장값과 속도에 따른 모델별 정지 거리와 정지 시간은 다음과 같습니다.
+At STOP0, the stopping distance and time of the models at different extension and speed values are as follows:
 
-* 확장(Extension): E=100%
-* 속도(Speed): S=33%, 66%, 100%
-* 부하(Load): 모델별 최대 부하 L=100%
+*   Extension: 100%
 
-![](../../_assets/stop0.png)
+
+*   Speed: 33%, 66%, 100%
+
+
+* Load: maximum load of the model (L=100%)
+
+
+
+![](<../../_assets/image_18.png>)
+
+
+

@@ -1,2 +1,2 @@
-﻿# 6.2 시스템 사양
+# 6.2 System specifications
 

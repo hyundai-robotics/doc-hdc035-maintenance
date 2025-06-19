@@ -1,27 +1,29 @@
-﻿# 4.3.8 PCI 통신 카드(옵션)
+# 4.3.8 PCI communication card (optional)
 
-협동로봇 제어기에서 PCI 통신 카드로 산업용 통신을 사용합니다. 보편적인 모델인 이더넷용 PCI 통신 카드를 기준으로 사용할 수 있는PCI 통신 카드의 모델과 카드의 구성 및 기능에 대해 설명합니다. 자세한 내용은 Hilscher사의 “**PC Cards CIFX 50 모델**”을 참조하십시오(PC Cards CIFX 50 50E 70E 100EH UM 51 EN).
+The peripheral component interconnect (PCI) communication installed in the collaborative robot controller enables industrial communication. This section describes the models, composition, and functions of a PCI communication card for Ethernet, which is a general model. For more details, see Hilscher’s “**PC Cards CIFX 50 Mode**l” (PC Cards CIFX 50 50E 70E 100EH UM 51 EN).
 
-PCI 통신 카드의 각 부분의 이름과 기능, 모델은 다음과 같습니다.
+The names and functions of the PCI communication card models are as follows:
 
-![그림 45 PCI 통신 카드 외관(좌) / 전면(우)](../../../_assets/image125.png)
 
-|                      **번호**                      |  **이름**  | 　　　　　　　**설명**                                                                                         |
-| :----------------------------------------------: | :------: | ----------------------------------------------------------------------------------------------------- |
-| ![Adobe Systems](../../../_assets/1.png) |  로터리 스위치 | <p>슬롯 번호에 따라 통신을 설정하여 사용합니다.</p><p>MiniH6COM PCI 슬롯의 위치에 따라 로터리 스위치를</p><p>상단에서부터 1 ~ 2번으로 설정합니다.</p> |
-| ![Adobe Systems](../../../_assets/2.png) |   LED 램  | <ul><li>SYS: 시스템 상태를 표시합니다.</li></ul>                                                                 |
-|    <ul><li>초록색: 시스템이 정상적으로 동작 중입니다.</li></ul>    |          |                                                                                                       |
-|       <ul><li>노란색: 부트 로더 대기 중입니다.</li></ul>      |          |                                                                                                       |
-|    <ul><li>COM0, COM1: 통신 상태를 표시합니다.</li></ul>   |          |                                                                                                       |
-|       <ul><li>초록색: 정상적으로 통신 중입니다.</li></ul>      |          |                                                                                                       |
-|      <ul><li>빨간색: 통신 에러가 발생하였습니다.</li></ul>      |          |                                                                                                       |
-|                                                  |          |                                                                                                       |
-| ![Adobe Systems](../../../_assets/3.png) | 통신 연결 단자 | 통신용 케이블을 연결하여 외부 장치와 통신합니다.                                                                           |
-| ![Adobe Systems](../../../_assets/4.png) |   PCI 버  | PC 연결용 버스(Bus)로 외부 PC와 통신합니다.                                                                         |
 
-![그림 46 PCI 통신 카드 모델](../../../_assets/image126.png)
+![Figure 45 Outside view (left) and front view (right) of PCI communication card](../../../_assets/image125.png)
 
-|       **모델명**      | 　　　　　**설명**                        | 　　　　**접속 커넥터**                 |
+|                      **No**                      |              **Name**             | 　　　　**Description**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| :----------------------------------------------: | :-------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Adobe Systems](../../../_assets/1.png) |           Rotary switch           | This sets communication channels according to slot numbers. According to the position of the MiniH6COM PCI slot, set the rotary switch at 1 to 2 from the top                                                                                                                                                                                                                                                                                                                                                 |
+| ![Adobe Systems](../../../_assets/2.png) |              LED lamp             | <ul><li><p><strong>SYS</strong>: This displays the system state.
+</p><ul><li><strong>Green</s_assetstem is in normal operation.
+</li><li><strong>Yellow</str_assetsm is waiting for the boot loader.</li></ul></li><li><p><strong>COM0</strong>, <strong>COM1</strong>: These display the communication states.
+</p><ul><li><strong>Green</strong>: The communication is in normal operation.
+</li><li><strong>Red</strong>: A communication error_assets
+</li></ul><p>
+</p></li></ul> |
+| ![Adobe Systems](../../../.gitbook/assets/3.png) | Communication connection terminal | This enables communication with external devices through a communication cable.                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ![Adobe Systems](../../../.gitbook/assets/4.png) |              PCI bus              | This, which is a bus for PC communication, enables communication with external PCs.                                                                                                                                                                                                                                                                                                                                                                                                                           |
+
+![Figure 46 PCI communication card models](../../../.gitbook/assets/image126.png)
+
+|   **Model name**   | 　　　　　**Description**               | 　　　**Connector**               |
 | :----------------: | ---------------------------------- | ------------------------------ |
 |  CIFX 50-RE/ML-HRC | HRC Real-Time Ethernet Master PCI  | RJ45 Socket                    |
 |   CIFX 50-RE-HRC   | HRC Real-Time Ethernet Slave PCI   | RJ45 Socket                    |

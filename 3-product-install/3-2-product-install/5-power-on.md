@@ -1,7 +1,7 @@
-﻿# 3.2.5 전원 켜기
+# 3.2.5 Power on
 
-협동로봇의 전원은 제어기의 전원 커넥터를 통해 공급됩니다.
+The power to the collaborative robot is supplied through the power connector of the controller.
 
-전원 차단기의 스위치를 밀어 올리십시오. 전원이 연결되면 로봇 시스템이 부팅되어 티치 펜던트의 디스플레이가 켜지고 협동로봇 LED 램프가 흰색으로 켜집니다.
+Push the switch of the power breaker upward. When the power is applied, the robot system will boot, the display of the teaching pendant will turn on, and the LED lamp of the manipulator will light up in white.
 
 ![](../../_assets/power\_on.png)

@@ -1,15 +1,19 @@
-﻿# 4.1 협동로봇 점검
+# 4.1 Checking of the collaborative robot
 
-협동로봇의 점검 유형과 주기, 방법에 대해 설명합니다.
+This section describes the types, intervals, and methods of checking the collaborative robot.
 
-점검 유형은 주기와 점검 항목에 따라 일상 점검과 정기 점검이 있습니다. 이와 별개로 가동 시간이 35,000 시간을 경과할 때마다 오버홀(Overhaul)을 실시합니다.
+The types of checks include routine checks and time-based checks according to intervals and check categories. In addition to the checks, overhaul checks should be carried out at the intervals of 35,000 operating hours.
 
-| **점검 유형** | **주기** |    **항목**   |
-| :-------: | :----: | :---------: |
-|   일상 점검   |   상시   | 기구, 모터, 감속기 |
-|   정기 점검   |   3개월  |    배선, 볼트   |
-|           |   1년   |     브레이크    |
+| **Type of checks** |    **Interval**   |          **Division**         |
+| :----------------: | :---------------: | :---------------------------: |
+|   Routine checks   | From time to time | Devices, motors, and reducers |
+|  Time-based checks |    Three months   |        Wires, and bolts       |
+|                    |      One year     |             Brakes            |
 
 {% hint style="info" %}
-점검 주기는 로봇이 수행하는 작업에 따라 다르며 핸들링 작업과 같이 가혹한 작업을 수행할 경우에는 명시된 주기의 1/2으로 점검하는 것을 권장합니다.
+The check intervals vary depending on operations carried out by the robot; if the robot carries out severe handling operations, it is recommended to carry out checks at 1/2 of the specified intervals
 {% endhint %}
+
+
+
+

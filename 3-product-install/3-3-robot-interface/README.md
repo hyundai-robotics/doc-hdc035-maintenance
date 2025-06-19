@@ -1,10 +1,17 @@
-﻿# 3.3 로봇 인터페이스
+# 3.3 Robot interface
 
-다음 주의 사항을 확인하여 툴 및 외부 장치를 연결하십시오.
+Connect tools and external devices while paying attention to the following precautions.
 
-* 모든 유형의 배선, 단자 및 전기 관련 작업을 수행하기 전에는 반드시 제품의 전원을 차단하십시오.
-* 케이블 커넥터의 모양을 확인하여 알맞은 단자에 연결하고 무리한 힘을 가하지 마십시오. 핀이 휘거나 손상될 수 있습니다.
-* 케이블을 임의로 개조하거나 연장하지 마십시오.
-* 에어호스의 허용 온도 및 압력을 확인하여 사용하십시오.
+*   Make sure to power off the product before carrying out any types of wiring, termination, and electrical work.
 
-당사에서는 고객 부주의, 조작 미숙 및 과실로 인한 제품의 손상 및 파손에 대해 책임지지 않습니다. 절대 무단으로 제품을 개조, 분해 및 수리하지 마십시오.
+
+*   Check the shapes of the cable connectors, and connect the proper cables to them without applying excessive force. Excessive force my bend or damage the pins.
+
+
+*   Do not modify or extend cables arbitrarily.
+
+
+* Use the device after checking the allowable temperature and pressure.&#x20;
+
+Hyundai Robotics will not take responsibility for product damages caused by the customer’s carelessness, unskillful operation, and other errors. Never arbitrarily modify, disassemble, or repair the product.
+

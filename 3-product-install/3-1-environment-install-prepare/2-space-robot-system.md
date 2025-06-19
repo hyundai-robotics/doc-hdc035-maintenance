@@ -1,34 +1,42 @@
-﻿# 3.1.2 로봇 시스템 영역
+# 3.1.2 Spaces of the robot system
 
-로봇 시스템의 영역은 여러 단계가 있으며 협동로봇이 움직일 수 있는 최대 작업 영역은 모델별로 다릅니다. 다음 정보를 확인하고 운전 목적과 모델별 최대 작업 영역에 따라 알맞게 영역을 구성하십시오.
+Check the following information, and arrange the space adequately to meet the operating purpose and the maximum operating space of the model.
 
-로봇 시스템과 작업자가 접촉하여 수행하는 협동운전에서 작업자는 안전 영역 내에서 작업합니다. 반면 로봇과 작업자의 접촉이 허가되지 않는 협동운전의 경우, 작업자는 보호 영역 내에서만 작업할 수 있습니다. 일반적인 산업용 로봇을 운전하는 경우에는 작업자는 보호 영역 밖에서 작업해야 합니다.
+In collaborative operation in which the operator is allowed to contact the robot system, the operator should work within the operating space. On the contrary, in collaborative operation in which the operator is not allowed to contact the robot system, the operator should work only in the safeguarded space. In the general operation of industrial robots, the operator should work outside of the safeguarded space.
 
-![](../../_assets/robot\_system\_area.png)
 
-* **운전 영역(Operating space)**: 작업 프로그램에 따라 로봇이 움직이는 동안 사용되는 제한 영역의 한 영역
-* **제한 영역(Restricted space)**: 제한 장치에 의해 제한되는 최대 영역의 한 영역
-* **보호 영역(Safeguarded space)**: 보호 장치가 작동되는 영역
-* **최대 영역(Maximum space)**: 로봇이 움직이는 영역으로 다다를 수 있는 영역
 
-협동로봇이 움직일 수 있는 최대 작업 영역은 모델별로 다릅니다. 모델별 최대 작업 영역은 다음과 같습니다.
+![](../../_assets/robot\_system\_area\_2.png)
+
+*   **Operating space**: A part of the restricted space that is used while the robot moves according to the operating program
+
+
+*   **Restricted space**: A part of the maximum space that is restricted by restricting devices
+
+
+*   **Safeguarded space**: A space for which safeguarding devices run
+
+
+* **Maximum space**: A space in which the robot can move to the maximum extent
+
+The maximum working spaces of collaborative robots vary depending on models. The maximum working spaces of models are as follows:
 
 {% hint style="info" %}
-작업영역 내에서도 모든 자세가 가능한 것은 아니므로 HRSpace를 통해 확인하는 것을 권장합니다.
+Not all postures are possible even within the working area, so it is recommended to check through HRSpace.
 {% endhint %}
 
 ### <mark style="color:green;">YL005: 916 mm</mark>
 
-![](../../_assets/yl005\_area.png)
+![](../../_assets/YL005\_area.png)
 
 ### <mark style="color:green;">YL012: 1,305 mm</mark>
 
-![](../../_assets/yl012\_area.png)
+![](../../_assets/YL012\_area.png)
 
 ### <mark style="color:green;">YL015: 963 mm</mark>
 
-![](../../_assets/yl015\_area.png)
+![](../../_assets/YL015\_area.png)
 
 {% hint style="info" %}
-상기의 S축을 관통하는 원통형 영역은 툴 플랜지는 느리게 움직이더라도 다른 관절들이 빠르게 움직여 비효율적 작동 및 로봇 손상을 유발할 수 있습니다. 따라서 이 영역에서 작동하는 것을 권장하지 않습니다.
+In the above cylindrical space passing through the S-axis, even if the tool flange moves slowly, other joints move quickly, possibly causing inefficient operation and damage to the robot. Therefore, it is not recommended to perform any operation in this space.
 {% endhint %}

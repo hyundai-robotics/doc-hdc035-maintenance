@@ -1,13 +1,29 @@
-﻿# 1.5 유효성 및 책임
+# 1.5 Validity and responsibilities
 
-로봇을 설치 및 사용하는 국가 및 지역의 안전 규정 및 법률을 기준으로 안전 요건을 준수해야 합니다. 로봇 통합 시스템의 공급자와 사용자에게는 다음의 사항을 비롯하여 다양한 책임이 부여됩니다.
+The user should conform to the safety requirements specified in the safety laws and regulations of the country and locality in which the robot is installed and used. Responsibilities of suppliers and users of integrated robot systems include but are not limited to the following:
 
-* 로봇 통합 시스템의 위험성 평가
-* 위험성 평가 결과에 따른 안전 장치의 추가 및 제거
-* 통합 시스템의 올바른 구성, 설치 및 설정 여부 확인
-* 통합 시스템의 사용 방법과 지침 구축 및 사용자 교육
-* 안전 장치 관리(사용자의 안전 장치 임의 변경 및 조작 금지)
-* 제품 사용 및 안전에 관한 중요 정보 및 연락처 등의 정보 제공
-* 설명서를 비롯한 모든 종류의 기술 문서 제공 등
+*   Risk assessment of robot integrated systems
 
-이 설명서의 안전 관련 내용에서 제품 사용 중 발생할 수 있는 모든 위험 요소와 상황을 다루지는 않습니다.
+
+*   Addition or removal of safety devices according to the result of risk assessment
+
+
+*   Checking that robot integrated systems are properly composed, installed, and set
+
+
+*   Establishment of the methods and instructions for using robot integrated systems and provision of user training
+
+
+*   Management of safety devices (prohibition of users from arbitrary modification and manipulation of safety devices)
+
+
+*   Provision of important pieces of information, contact addresses, and others relating to product use and safety
+
+
+*   Provision of all types of technical documents including manuals
+
+
+
+The safety-related content of this manual does not cover all the risk factors and situations that may occur during product use.
+
+

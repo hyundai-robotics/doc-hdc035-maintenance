@@ -1,17 +1,17 @@
-﻿# 5.3 폐기
+# 5.3 Disposal
 
-사용자의 안전을 확보하고 환경을 보호하기 위해 특정 부품은 지정된 방법에 따라 관리 및 폐기해야 합니다. 또한 산업성 폐기 물질이 포함된 경우 절대 일반 산업용 쓰레기 또는 가정용 쓰레기와 함께 폐기해서는 안 됩니다.
+To secure user safety and protect the environment, specific components should be managed and disposed of by the specified methods. If a component contains hazardous industrial waste, it must not be disposed of with general industrial wastes or domestic wastes.
 
-협동로봇의 부품별 재질 정보는 다음과 같습니다.
+The materials of the components of the collaborative robot are as follows:
 
-|             **부품**             |      **재질**      |
-| :----------------------------: | :--------------: |
-|               배터리              |    니켈카드뮴 또는 리튬   |
-|            배선 장치, 모터           |        구리        |
-| 베이스 바디, A2 프레임, 2nd 암, 손목 바디 등 |    알루미늄 합금 주조    |
-|             브래킷, 모터            | 사마륨 코발트(또는 네오디뮴) |
-|           배선 장치, 커넥터           |      플라스틱/고무     |
-|            리듀서, 베어링            |      오일/그리스      |
-|         1st 암, 손목 커버 등         |    알루미늄 합금 주조    |
+|                   **Component**                   |          **Material**          |
+| :-----------------------------------------------: | :----------------------------: |
+|                     Batteries                     |    Nickel-cadmium or lithium   |
+|               Wiring devices, motors              |             Copper             |
+| Base body, A2 frame, second arm, wrist body, etc. |       Aluminum alloy cast      |
+|                  Brackets, motors                 | Samarium cobalt (or neodimium) |
+|             Wiring devices, connectors            |         Plastics/rubber        |
+|                 Reducers, bearings                |           Oil/grease           |
+|            First arm, wrist cover, etc.           |       Aluminum alloy cast      |
 
-로봇 시스템의 전체 또는 일부를 폐기할 때에는 해당 국가 또는 지역의 관련 규정 및 법규를 반드시 준수하십시오. 제품의 폐기 및 처분과 관련된 자세한 내용은 당사의 고객지원팀으로 문의하시기 바랍니다.
+In disposing of the robot system in whole or in parts, make sure to comply with the applicable laws and regulations of the pertaining country or locality. For more details on product scrapping and disposal, contact our Customer Support Team.

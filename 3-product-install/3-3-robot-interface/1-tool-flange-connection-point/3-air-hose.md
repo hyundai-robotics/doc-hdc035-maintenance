@@ -1,3 +1,3 @@
-﻿# 3.3.1.3 에어 호스
+# 3.3.1.3 Air hose
 
-![그림 18 에어호스 허용 온도-압력 그래프](../../../_assets/air\_hose.png)
+![Figure 18 Graph of the allowable temperature-pressure for the air hose](../../../_assets/air\_hose\_2.png)

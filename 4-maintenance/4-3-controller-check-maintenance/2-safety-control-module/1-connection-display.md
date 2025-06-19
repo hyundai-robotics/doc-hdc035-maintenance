@@ -1,26 +1,26 @@
-﻿# 4.3.2.1 연결 및 표시
+# 4.3.2.1 Connection and display
 
-안전 제어 모듈에서 사용되는 커넥터의 배치, 용도 및 접속 장치는 다음과 같습니다.
+The connector layout, usages, and connecting devices used by the SCM are as follows:
 
-![그림 28 안전 제어 보드(BD6F1)](../../../_assets/image109.png)
+![Figure 28 Safety control board (BD6F1)](../../../_assets/image109.png)
 
-|   **커넥터**   | 　　　　　　**용도**                                                        |              **외부 연결 장치**             |
-| :---------: | ------------------------------------------------------------------- | :-----------------------------------: |
-|   CNPS1, 2  | <p>안전 회로용 전원 입력 DC24V</p><p>(채널1, 2)</p>                            |              전원 장치(SMPS2)             |
-|    CNCAN1   | 기구부 토크 센서(채널1)와의 데이터 통신 (토크 데이터 교환)                                 |           로봇 케이블 연결 단자(CNM)           |
-|    CNCAN2   | <p>기구부 토크 센서(채널2) 및 엔코더(채널2)와의 데이터 통신</p><p>(토크 데이터, 위치 데이터 교환)</p> |           로봇 케이블 연결 단자(CNM)           |
-|     RJ1     | 이더캣 통신 포트                                                           |           로봇 케이블 연결 단자(CNM)           |
-|     RJ2     | 이더캣 통신 포트                                                           |          소형 컴퓨터 모듈(miniH6COM)         |
-|    CNPM1    | 기구부 모터 구동용 전원 입력(DC48V)                                             |              전원 장치(SMPS1)             |
-|    CNPM2    | 기구부 모터 구동용 전원 출력(DC48V)                                             |           로봇 케이블 연결 단자(CNM)           |
-|    CNPM3    | 모터 구동 전원 선 충전용 전원 출력(DC48V)                                         |             전원 충전 모듈(PPM)             |
-|    CNEP1    | 모터 구동 전원 선 충전용 소스 전원 입력(DC48V)                                      |             안전 제어 모듈(SCM)             |
-|    CNRDM    | 회생 방전 동작 상태 정보 교환                                                   |             회생 방전 모듈(RDM)             |
-|    CNPC2    | IO용 전원 입력                                                           |              전원 장치(SMPS2)             |
-|    TBSYS1   | 비상 정지 스위치 및 보호 정지 스위치(안전 가드) 입력, 전원 충전 기능 제어 및 모니터링 신호 연결           | <p>외부 안전 스위치,</p><p>전원 충전 모듈(PPM)</p> |
-|    TBSDO    | 안전 출력 신호 연결                                                         |                 안전 장치                 |
-|    TBSDI    | 안전 입력 신호 연결                                                         |                 안전 장치                 |
-|    TBAIO    | 일반 아날로그 입출력 신호 연결                                                   |               일반 아날로그 장치              |
-|    TBDIO    | 일반 디지털 입출력 신호 연결                                                    |               일반 디지털 장치               |
-| RS485\_1, 2 | RS-485 직렬 통신 연결(예비 기능)                                              |                   -                   |
-| RS232\_1, 2 | RS-232 직렬 통신 연결(예비 기능)                                              |                   -                   |
+| **Connector** | 　　　　　　　　　**Usage**                                                                                                                                   |            **External connecting device**            |
+| :-----------: | ---------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------: |
+|    CNPS1, 2   | <p>Power input for the safety circuit, 24 V DC</p><p>(Channels 1 and 2)</p>                                                                          |                 Power supply (SMPS2)                 |
+|     CNCAN1    | Data communication (exchange of torque data) with the torque sensors (Channel 1) of the mechanical parts                                             |         Robot cable connection terminal (CNM)        |
+|     CNCAN2    | Data communication (exchange of torque and position data) with the torque sensors (Channel 2) and encoder (Channel 2) of the mechanical parts        |              Robot cable connector (CNM)             |
+|      RJ1      | EtherCAT communication port                                                                                                                          |              Robot cable connector (CNM)             |
+|      RJ2      | EtherCAT communication port                                                                                                                          |           Microcomputer module (miniH6COM)           |
+|     CNPM1     | Power input for driving motors of the mechanical parts (48 V DC)                                                                                     |                 Power supply (SMPS1)                 |
+|     CNPM2     | Power output for driving motors of the mechanical parts (48 V DC)                                                                                    |              Robot cable connector (CNM)             |
+|     CNPM3     | Power output for charging the motor driving power lines (48 V DC)                                                                                    |             Power precharge module (PPM)             |
+|     CNEP1     | Power input for charging the motor driving power lines (48 V DC)                                                                                     |              Safety control module (SCM)             |
+|     CNRDM     | Exchange of information on the state of regenerative discharge action                                                                                |          Regenerative discharge module (RDM)         |
+|     CNPC2     | Power input for I/O                                                                                                                                  |                 Power supply (SMPS2)                 |
+|     TBSYS1    | Input for the emergency stop switch and protective stop switch (safeguard), control of power charging function, and connection of monitoring signals | External safety switch, power precharge module (PPM) |
+|     TBSDO     | Connection of safety output signals                                                                                                                  |                     Safety device                    |
+|     TBSDI     | Connection of safety input signals                                                                                                                   |                     Safety device                    |
+|     TBAIO     | Connection of general analog I/O signals                                                                                                             |                General analog devices                |
+|     TBDIO     | Connection of general digital I/O signals                                                                                                            |                General digital devices               |
+|  RS485\_1, 2  | <p>Connection of RS-485 serial communication</p><p>(reserved function)</p>                                                                           |                           -                          |
+|  RS232\_1, 2  | <p>Connection of RS-232 serial communication</p><p>(reserved function)</p>                                                                           |                           -                          |

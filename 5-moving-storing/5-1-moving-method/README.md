@@ -1,39 +1,47 @@
-﻿# 5.1 운반 방법
+# 5.1 Moving method
 
-협동로봇의 무게와 주의 사항을 확인하고 올바른 방법으로 안전에 유의하여 제품을 운반하십시오.
+Check the weight and precautions for the collaborative robot. Move it using the proper method as follows, while paying attention to safety.
 
-협동로봇을 직접 이동하려면, 이동에 적절한 자세로 협동로봇을 설정하고 2인 이상의 작업자가 동시에 들어올려 원하는 위치로 옮기십시오.
+To move the collaborative robot manually, set it at the posture adequate for moving. Two or more workers lift it at the same time and move it to the target location.&#x20;
 
-![그림 51 직접 운반](../../_assets/image131.png)
+
+
+![Figure 51 Manual moving](<../../_assets/image_30.png>)
+
+
 
 {% hint style="warning" %}
-**\[주의]**
+**\[Caution]**
 
-* 협동로봇을 직접 옮기고자 하는 경우에는 2인 이상의 작업자가 동시에 들어 운반하십시오.
-* 2인 이상의 작업자가 함께 작업할 경우에는 연결 부위에 손상을 줄 수 있으므로 주의하십시오.
-* 협동로봇을 바닥에 그대로 내려 놓으면, 프레임 커버가 파손될 수 있습니다.
+* To move the collaborative robot manually, two or more workers should lift it at the same time and move it.
+* When two or more workers move it at the same time, connections may be damaged. Therefore, take care not to damage them.
+*   Take care when putting down the collaborative robot on the floor, as the frame cover may be damaged.
+
+
 {% endhint %}
 
-리프팅 장비를 이용해 협동로봇을 이동하려면, 리프팅에 적절한 자세로 협동로봇을 설정하고 슬링 벨트로 크레인에 연결한 후 들어올려 원하는 위치로 옮기십시오.
+To move the collaborative robot using a crane, set the robot at the posture adequate for lifting, connect it to the crane with sling belts, lift it, and move it to the target location.
 
-![그림 52 크레인 운반: YL012](../../_assets/image132.png)
+![Figure 52 Moving with a crane YL012](<../../_assets/image_31.png>)
 
-![그림 53 크레인 운반: YL005(좌) / YL015(우)](../../_assets/image133.png)
+![Figure 53 Moving with a crane YL005 (left) / YL015 (DN)](<../../_assets/image_32.png>)
 
-*   리프팅에 적절한 자세는 제품을 직접 운반하는 경우와 동일합니다.
+*   The adequate robot posture for lifting is the same as that for the manual moving.
 
-    “[**5.1.1 추천 자세**](1-recommend-posture.md)”를 참조하여 협동로봇을 공장 출하 시의 자세로 설정할 것을 권장합니다.
-*   크레인의 최소 용량은 0.2 t이며 협동로봇의 모델별 무게는 다음과 같습니다.
+    It is recommended to set the posture of the collaborative robot as it was released from the factory, referring to “[**5.1.1 Recommended posture**](1-recommend-posture.md).”
+
+
+*   The minimum capacity of the crane should be 0.2 t, while the weights of the collaborative robot models are as follows:
 
     YL005: 27 kg, YL012: 43 kg, YL015: 41 kg
 
 {% hint style="warning" %}
-**\[경고]**
+**\[Warning]**
 
-* 리프팅 장비를 이용해 운반하는 경우에는 해당 국가 및 지역의 안전 규정 및 장비 사용 지침을 준수해야 합니다.
-* 크레인을 이용해 이동할 때에는 제품 아래에 작업자가 없는지 반드시 확인하십시오. 또한, 절대 크레인 또는 제품 아래에서 작업하거나 지나다니지 마십시오.
+* In moving the product using a crane, conform to the local and national safety regulations and the instructions for equipment use.
+* In moving the product using a crane, ensure that no workers stand under the product. Never work or pass under the crane or the product.
 {% endhint %}
 
 {% hint style="warning" %}
-**\[주의]**: 협동로봇에 부가 장비를 연결하면 무게 중심이 다른 부분으로 이동하므로 리프팅이 어려워집니다.
+**\[Caution]**: If an auxiliary device is attached to the collaborative robot, lifting will become harder because the center of gravity of the robot will move to another point.
 {% endhint %}

@@ -1,17 +1,17 @@
-﻿# 4.3.4.1 연결 및 표시
+# 4.3.4.1 Connection and display
 
-회생 방전 모듈의 커넥터 배치, 용도 및 접속 장치는 다음과 같습니다.
+The connector layout, usage, and connecting devices used by the RDM are as follows:
 
-| **커넥터** | 　　　　　　**용도**        |     **외부 연결 장치**    |
-| :-----: | ------------------- | :-----------------: |
-|  CNPM3  | DC48V 전원(모터용) 라인 연결 | 전원 충전 모듈(PPM) CNPM3 |
-|  CNRDM  | 상태 정보 신호 연결         | 안전 제어 모듈(SCM) CNPMD |
+| **Connector** | 　　　　　**Usage**                                    |   **External connecting device**   |
+| :-----------: | ------------------------------------------------- | :--------------------------------: |
+|     CNPM3     | Connection of 48 V DC power line (for the motor)  | Power precharge module (PPM) CNPM3 |
+|     CNRDM     | Connection of state information signals           |  Safety control module (SCM) CNPMD |
 
-회생 방전 모듈의 표시 정보는 다음과 같습니다.
+The details of the state display of the RDM are as follows:
 
-| **LED** | 　　　　　　　　**용도**          |                **표시 내용(점등 상태)**                |
-| :-----: | ----------------------- | :--------------------------------------------: |
-|   LED7  | 회생 저항 과열 및 방전 전류 과전류 검지 | <p>회생 저항 온도 초과(95℃)</p><p>또는 방전 전류 초과(15A)</p> |
-|   LED8  | 회생 저항 단선 검지             |    <p>회생 저항 연결이 끊어짐</p><p>(회생 동작 시에도 표시)</p>   |
-|   LED9  | 회생 동작 검지                |                     회생 동작 중                    |
-|  LED10  | 회생 오버타임 검지              |                10 ms 이상 회생 동작 발생               |
+| **LED** | 　　　　　**Usage**                                                                                          |                                                **Display details (lamp state)**                                                |
+| :-----: | ------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------: |
+|   LED7  | Detection of overheating of the regenerative discharge resistor or overcurrent of the discharge current | <p>Overheating of the regenerative discharge resistor (95°C)</p><p>or Overcurrent of the discharge current (15 A)</p><p></p> |
+|   LED8  | Detection of disconnection of the regenerative discharge resistor                                       |        The regenerative discharge resistor is disconnected (displayed even during the regenerative discharge operation)        |
+|   LED9  | Detection of the regenerative discharge operation                                                       |                                             Under regenerative discharge operation                                             |
+|  LED10  | Detection of regenerative discharge overtime                                                            |                               Occurrence of regenerative discharge operation for 10 ms or longer                               |

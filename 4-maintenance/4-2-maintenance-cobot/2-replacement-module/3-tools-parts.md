@@ -1,52 +1,42 @@
-﻿# 4.2.2.3 공구 및 부품
+# 4.2.2.3 Tools and parts
 
-통합 구동 모듈의 교체 시 필요한 공구와 부품은 다음과 같습니다.
+The tools and parts required for the replacement of the integrated driving module are as follows:
 
-* 시중 토크 렌치 및 익스텐션 사용
-* 볼트: 육각소켓머리, 강도 12.9, 무전해 니켈 도금 또는 니켈 도금 사용
-* 핀: 평행핀 H7 공차 제품 또는 스프링핀 사용
+* Off-the-shelf torque wrenches and extensions
+* Bolts: hex socket head, strength 12.9, electroless nickel plated, or normal nickel plated
+*   Pins: dowel pins of H7 tolerance or spring pins
+
+
 
 ## <mark style="color:green;">YL005</mark>
 
-| **축** |  **토크 렌치** |                            **볼트**                            |      **평행 핀**     | **기타 부품** |
-| :---: | :--------: | :----------------------------------------------------------: | :---------------: | :-------: |
-|   S   | M3, M4, M5 |       <p>4XM3-6, 4XM3-10,</p><p>12XM4-20, 12XM5-18</p>       |     3XPIN5-10     |           |
-|   H   | M3, M4, M5 |                  8XM3-6, 12XM4-20, 12XM5-18                  |     3XPIN5-10     |           |
-|   V   |   M3, M4   |                   8XM3-6, 12XM3-30, 9XM4-25                  | PIN3-6, 2XPIN4-15 |           |
-|   R2  |   M3, M4   |                   10XM3-6, 12XM3-30,9XM4-20                  | PIN3-6, 2XPIN4-15 |           |
-|   B   |   M3, M4   | <p>4XM3-5 소경머리, 6XM3-6,</p><p>12XM3-18, 6XM4-10, 8XM3-25</p> |  PIN3-6, PIN4-10  |           |
-|   R1  |  M2.5, M3  |            <p>6XM4-10 접시머리,</p><p>4XM3-5 소경머리</p>            |                   |           |
+| **Axis** | **Torque wrenches** |                                   **Bolts**                                  |   **Dowel pins**  | **Other parts** |
+| :------: | :-----------------: | :--------------------------------------------------------------------------: | :---------------: | :-------------: |
+|     S    |      M3, M4, M5     |                      4XM3-6, 4XM3-10, 12XM4-20, 12XM5-18                     |     3XPIN5-10     |                 |
+|     H    |      M3, M4, M5     |                          8XM3-6, 12XM4-20, 12XM5-18                          |     3XPIN5-10     |                 |
+|     V    |        M3, M4       |                           8XM3-6, 12XM3-30, 9XM4-25                          | PIN3-6, 2XPIN4-15 |                 |
+|    R2    |        M3, M4       |                          10XM3-6, 12XM3-30, 9XM4-20                          | PIN3-6, 2XPIN4-15 |                 |
+|     B    |        M3, M4       | <p>4XM3-5 small-diameter head, </p><p>6XM3-6, 12XM3-18, 6XM4-10, 8XM3-25</p> |  PIN3-6, PIN4-10  |                 |
+|    R1    |       M2.5, M3      |      <p>6XM4-10 countersunk head, </p><p>4XM3-5 small-diameter head</p>      |                   |                 |
 
 ## <mark style="color:green;">YL012</mark>
 
-| **축** |          **토크 렌치**         |                       **볼트**                       |      **평행 핀**     |                               **기타 부품**                              |
-| :---: | :------------------------: | :------------------------------------------------: | :---------------: | :------------------------------------------------------------------: |
-|   S   |           M3, M5           |                                                    |                   |                                                                      |
-|       |                            |                                                    |                   |                                                                      |
-|       |                            |                                                    |                   |                                                                      |
-|       |                            |                                                    |                   |                                                                      |
-|       |                            |                                                    |                   |                                                                      |
-|       |                            |                                                    |                   |                                                                      |
-|       | 5XM3-6, 10XM5-18, 12XM5-40 |                      3XPIN5-10                     |                   |                                                                      |
-|   H   |           M3, M6           |             10XM3-6, 12XM6-20, 12XM6-45            |     3XPIN5-10     |                 <p>원터치 스트레이트</p><p>피팅(KQH23-00A1)</p>                |
-|   V   |           M3, M5           |             10XM3-6, 10XM5-20,12XM5-40             |     3XPIN5-10     |                                                                      |
-|   R2  |           M3, M4           |             11XM3-6, 12XM3-30,10XM4-25             | PIN3-6, 2XPIN4-15 |                 <p>원터치 스트레이트</p><p>피팅(KQH23-00A1)</p>                |
-|   B   |           M3, M4           | <p>4XM3-5 소경머리, XM3-6,</p><p>12XM3-30, 8XM4-20</p> | PIN3-6, 2XPIN4-15 | <p>3XM3 NUT,</p><p>M3 고무와셔,</p><p>원터치 스트레이트</p><p>피팅(KQH23-00A1)</p> |
-|   R1  |          M2.5, M3          |       <p>6XM4-10 접시머리,</p><p>4XM3-5 소경머리</p>       |                   |                 <p>원터치 스트레이트</p><p>피팅(KQH23-00A1)</p>                |
+| **Axis** |                   **Torque wrenches**                  |                              **Bolts**                             |   **Dowel pins**  |                                  **Other parts**                                 |
+| :------: | :----------------------------------------------------: | :----------------------------------------------------------------: | :---------------: | :------------------------------------------------------------------------------: |
+|     S    | <p>M3, M5</p><p></p><p></p><p></p><p></p><p></p> |              <p>5XM3-6, 10XM5-18, </p><p>12XM5-40</p>              |     3XPIN5-10     |                                                                                  |
+|     H    |                         M3, M6                         |              <p>10XM3-6, 12XM6-20, </p><p>12XM6-45</p>             |     3XPIN5-10     |                      One-touch straight fitting (KQH23-00A1)                     |
+|     V    |                         M3, M5                         |              <p>10XM3-6, 10XM5-20,</p><p>12XM5-40</p>              |     3XPIN5-10     |                                                                                  |
+|    R2    |                         M3, M4                         |              <p>11XM3-6, 12XM3-30,</p><p>10XM4-25</p>              | PIN3-6, 2XPIN4-15 |                      One-touch straight fitting (KQH23-00A1)                     |
+|     B    |                         M3, M4                         | <p>4XM3-5 small-diameter head, </p><p>XM3-6, 12XM3-30, 8XM4-20</p> | PIN3-6, 2XPIN4-15 | <p>3XM3 NUT, M3 rubber washer,</p><p>One-touch straight fitting (KQH23-00A1)</p> |
+|    R1    |                        M2.5, M3                        | <p>6XM4-10 countersunk head, </p><p>4XM3-5 small-diameter head</p> |                   |                      One-touch straight fitting (KQH23-00A1)                     |
 
 ## <mark style="color:green;">YL015</mark>
 
-| **축** |                **토크 렌치**                |                        **볼트**                       |      **평행 핀**     |                               **기타 부품**                              |
-| :---: | :-------------------------------------: | :-------------------------------------------------: | :---------------: | :------------------------------------------------------------------: |
-|   S   |                  M3, M5                 |                                                     |                   |                                                                      |
-|       |                                         |                                                     |                   |                                                                      |
-|       |                                         |                                                     |                   |                                                                      |
-|       |                                         |                                                     |                   |                                                                      |
-|       |                                         |                                                     |                   |                                                                      |
-|       |                                         |                                                     |                   |                                                                      |
-|       | <p>5XM3-6, 10XM5-18,</p><p>12XM5-40</p> |                      3XPIN5-10                      |                   |                                                                      |
-|   H   |                  M3, M6                 |       <p>10XM3-6, 12XM6-20,</p><p>12XM6-45</p>      |     3XPIN5-10     |                 <p>원터치 스트레이트</p><p>피팅(KQH23-00A1)</p>                |
-|   V   |                  M3, M5                 |       <p>10XM3-6, 10XM5-20,</p><p>12XM5-40</p>      |     3XPIN5-10     |                                                                      |
-|   R2  |                  M3, M4                 |       <p>11XM3-6, 12XM3-30,</p><p>10XM4-20</p>      | PIN3-6, 2XPIN4-15 |                 <p>원터치 스트레이트</p><p>피팅(KQH23-00A1)</p>                |
-|   B   |                  M3, M4                 | <p>4XM3-5 소경머리, 6XM3-6,</p><p>12XM3-30, 8XM4-20</p> | PIN3-6, 2XPIN4-15 | <p>3XM3 NUT,</p><p>M3 고무와셔,</p><p>원터치 스트레이트</p><p>피팅(KQH23-00A1)</p> |
-|   R1  |                 M2.5, M3                |        <p>6XM4-10 접시머리,</p><p>4XM3-5 소경머리</p>       |                   |                 <p>원터치 스트레이트</p><p>피팅(KQH23-00A1)</p>                |
+| **Axis** |                   **Torque wrenches**                  |                              **Bolts**                              |   **Dowel pins**  |                                  **Other parts**                                 |
+| :------: | :----------------------------------------------------: | :-----------------------------------------------------------------: | :---------------: | :------------------------------------------------------------------------------: |
+|     S    | <p>M3, M5</p><p></p><p></p><p></p><p></p><p></p> |                      5XM3-6, 10XM5-18, 12XM5-40                     |     3XPIN5-10     |                                                                                  |
+|     H    |                         M3, M6                         |                     10XM3-6, 12XM6-20, 12XM6-45                     |     3XPIN5-10     |                      One-touch straight fitting (KQH23-00A1)                     |
+|     V    |                         M3, M5                         |                     10XM3-6, 10XM5-20, 12XM5-40                     |     3XPIN5-10     |                                                                                  |
+|    R2    |                         M3, M4                         |                     11XM3-6, 12XM3-30, 10XM4-20                     | PIN3-6, 2XPIN4-15 |                      One-touch straight fitting (KQH23-00A1)                     |
+|     B    |                         M3, M4                         | <p>4XM3-5 small-diameter head, </p><p>6XM3-6, 12XM3-30, 8XM4-20</p> | PIN3-6, 2XPIN4-15 | <p>3XM3 NUT, M3 rubber washer,</p><p>One-touch straight fitting (KQH23-00A1)</p> |
+|    R1    |                        M2.5, M3                        |  <p>6XM4-10 countersunk head,</p><p>4XM3-5 small-diameter head</p>  |                   |                      One-touch straight fitting (KQH23-00A1)                     |

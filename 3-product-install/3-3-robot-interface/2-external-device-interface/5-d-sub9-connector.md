@@ -1,17 +1,17 @@
-﻿# 3.3.2.5 D-SUB 9 커넥터(COM1, COM2): 직렬 통신(RS485, 422)
+# 3.3.2.5 D-sub 9-pin connector (COM1, COM2): serial communication (RS485, 422)
 
-D-SUB 24커넥터(SDIO)를 통하여 외부로 통신용 케이블 2포트를 연결할 수 있습니다. 신호 연결에 대한 자세한 내용은 “[**4.3.5 소형 컴퓨터 모듈**](../../../4-maintenance/4-3-controller-check-maintenance/5-microcomputer-module.md)”을 참조하십시오.
+You can connect D-sub 24-pin connectors (SDIOs) to two ports for external communication. For more details of signal connection, see “[**4.3.5 Microcomputer module**](../../../4-maintenance/4-3-controller-check-maintenance/5-microcomputer-module.md).”
 
 ![](../../../_assets/d-sub9.png)
 
-\* 제어기 내부(miniH6COM COM1, COM2) / \* n=1, 2 (COM 포트 번호)
+\* Internal connections of the controller (miniH6COM COM1, COM2) / \* n=1, 2 (COM port number)
 
-|  **핀 번호**  |                1               |                2               |              3             |              4             |  5  |
-| :--------: | :----------------------------: | :----------------------------: | :------------------------: | :------------------------: | :-: |
-| **제어기 내부** |                1               |                2               |              3             |              4             |  5  |
-|   **명칭**   | <p>COMn_422_485</p><p>_TX-</p> | <p>COMn_422_485</p><p>_TX+</p> | <p>COMn_422</p><p>_RX+</p> | <p>COMn_422</p><p>_RX-</p> | GND |
+|               **Pin number**               |                1               |                2               |              3             |              4             |  5  |
+| :----------------------------------------: | :----------------------------: | :----------------------------: | :------------------------: | :------------------------: | :-: |
+| **Internal connections of the controller** |                1               |                2               |              3             |              4             |  5  |
+|                  **Name**                  | <p>COMn_422_485</p><p>_TX-</p> | <p>COMn_422_485</p><p>_TX+</p> | <p>COMn_422</p><p>_RX+</p> | <p>COMn_422</p><p>_RX-</p> | GND |
 
-|   **번호**   |      6     |      7     |      8     |       9      | - |
-| :--------: | :--------: | :--------: | :--------: | :----------: | - |
-| **제어기 내부** |      6     |      7     |      8     |       9      | - |
-|   **명칭**   | COMn\_DSR# | COMn\_RTS# | COMn\_CTS# | COMn\_RI\_V# | - |
+|               **Pin number**               |      6     |      7     |      8     |       9      |  -  |
+| :----------------------------------------: | :--------: | :--------: | :--------: | :----------: | :-: |
+| **Internal connections of the controller** |      6     |      7     |      8     |       9      |  -  |
+|                  **Name**                  | COMn\_DSR# | COMn\_RTS# | COMn\_CTS# | COMn\_RI\_V# |  -  |

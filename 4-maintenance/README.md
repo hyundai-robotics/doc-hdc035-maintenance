@@ -1,16 +1,26 @@
-﻿# 4. 유지 보수
+# 4. Maintenance
 
-제품을 오랫동안 이상 없이 사용하려면 정기적으로 점검 및 보수해야 합니다. 로봇 시스템의 유지 보수는 반드시 현대로보틱스 또는 당사에서 지정한 업체를 통해 수행해야 합니다.
+To use the product for a long time without anomalies, it should be checked and maintained at regular intervals. The maintenance of the robot system must be carried out by Hyundai Robotics or a service provider designated by it.
 
-유지 보수 작업의 목적은 로봇 시스템을 작업 가능한 상태로 유지하거나 문제가 발생했을 때 작업 가능한 상태로 되돌리는 것입니다. 또한 유지 보수 작업은 제품의 수리뿐만 아니라 로봇 시스템에 대한 문제를 진단하는 것까지 포함합니다.
+The purpose of maintenance works is to maintain the robot system at the operable state or to restore it to the operable state in case problems arise. Maintenance activities include not only robot system repairs but also problem diagnosis.
 
-점검 시에는 해당 국가 또는 지역의 작업 안전 규정을 반드시 준수해야 하며 위험에 대한 모든 가능성을 시험하고, 유지 보수 작업 후에는 위험성 평가를 실시하여 안전 수준에 부합하는지 확인하십시오.
+In checking the robot system, the applicable work safety regulations of the country or locality must be complied with. All the possibilities of risks should be tested during maintenance, and risk assessment should be carried out to verify if the system meets the safety requirements after maintenance.
 
-협동로봇 또는 제어기를 유지 보수할 때에는 반드시 다음의 안전 지침을 준수하십시오.
+In carrying out maintenance works of the collaborative robot or the controller, make sure to comply with the following safety instructions:
 
-* 유지 보수 작업 시 전원 케이블을 분리하고 로봇 또는 제어기에 연결된 다른 전력 공급원에서 전력이 공급되지 않도록 하십시오.
-* 유지 보수 작업 시 소프트웨어의 기존 안전 설정은 그대로 유지하십시오.
-* 유지 보수 작업 시 제품 내부에 물이나 먼지 등의 이물질이 들어가지 않도록 주의하십시오.
-* 부품에 결함이 발생한 경우에는 해당 부품과 동일한 신규 부품으로 교체하고 기존 부품은 당사로 반환하십시오. 반드시 현대로보틱스의 인증을 받은 부품이나 소모품, 소프트웨어를 사용하십시오.
-* 유지 보수 작업 완료 후 안전 기능을 다시 가동하십시오.
-* 유지 보수 및 수리 내역을 로봇 시스템 전체와 관련된 기술 파일에 기록하여 관리하십시오.
+*   Before maintenance, disconnect the power cables, and ensure that other power sources connected to the robot or the controller are turned off.
+
+
+*   During maintenance, keep the existing safety setting of the software as it is.
+
+
+*   During maintenance, take precautions so that foreign matters such as water or dust do not penetrate into the product.
+
+
+*   If a defective part is found, replace it with a new one having the same specifications with the part to be replaced, and return the defective part to Hyundai Robotics. Make sure to use parts, consumables, and software certified by Hyundai Robotics.
+
+
+*   Upon completing maintenance, reactivate the safety functions.
+
+
+* Record the details of the maintenance and repair works in the technical file relating to the entire robot system.

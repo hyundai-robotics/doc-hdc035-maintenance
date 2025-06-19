@@ -1,36 +1,38 @@
-﻿# 표기규약
+# Notation rules
 
-이 설명서에서는 내용의 이해를 돕기 위해 다음의 표기 규약과 안전 지시를 사용합니다.
+This manual utilizes the following expression rules and safety directions for easy understanding.
 
-### <mark style="color:green;">그림 설명</mark>
+### <mark style="color:green;">Description by figures</mark>
 
-그림은 제품 조작 방법의 이해를 돕고 화면을 설명하는데 사용합니다. 그림을 설명할 때에는 다음과 같이 해당 부분에 숫자를 표기하고 그에 대응하는 내용을 설명합니다.
+Figures are used for a better understanding of how to operate the product and for describing screens. When a description is made by a figure, the pertaining part is marked with the figure number that describes the part as shown in the following figure:
 
 ![](../_assets/image\_explan.png)
 
 ### <mark style="color:green;">GUI (Graphical User Interface)</mark>
 
-GUI 는 메뉴 이름 및 버튼 이름을 대괄호\*\*(\[ ]\*\*) 안에 넣고 **굵은 글씨**로 표시합니다. 여러 메뉴를 순서대로 선택해야 할 때에는 이름 사이에 > 기호를 넣어 표시합니다.
+Regarding GUI, any menu name or button name will be in brackets (**\[ ]**) and in **bold type**. When multiple menus need to be selected in the listed order, the menu names will be separated by the symbol (>).
 
-* 이름이 있는 메뉴: 수동 또는 자동 모드의 초기 화면에서\*\* \[메뉴] \*\*버튼을 선택하십시오.
-* 여러 메뉴: 수동 모드의 초기 화면에서 **\[설정]** 버튼 > **\[5: 초기화 > 7: 유닛 설정]** 메뉴를 선택하십시오.
+* Menu having a title: On the initial screen of the manual or automatic mode, select the **\[Menu]** button.
+*   Multiple menus: In the initial screen of the manual mode, select the **\[Set Up]** button > **\[5: Reset > 7: Unit Setting]** menu.
 
-### <mark style="color:green;">조작키 표기법</mark>
 
-기능 조작을 위하여 티치 펜던트의 조작부에서 누르는 키는 홑화살괄호(**< >**)에 넣고 **굵은 글씨**로 표시합니다.
 
-* **<시작>** 키를 누르면 로봇에 작성된 프로그램의 자동 운전을 시작합니다.
+### <mark style="color:green;">Manipulation key notation method</mark>
 
-### <mark style="color:green;">상호 참조</mark>
+Any key to be pressed in the functional manipulation area of the teach pendant will be in angle brackets (**< >**) and in **bold type**.
 
-설명서 내에서 연관된 정보로의 바로가기를 제공합니다. 상호 참조는 다음과 같이 **굵은 글씨**에 큰따옴표(“ ”)로 표시합니다.
+* Pressing the **\<Start>** key will initiate the automatic execution of the sequence programmed into the robot.
 
-* 날짜와 시간 정보 변경에 대한 자세한 내용은 Hi6 제어기 조작설명서의 “**4.5 날짜 및 시간 설정**”을 참조하십시오.
+### <mark style="color:green;">Cross-references</mark>
 
-### <mark style="color:green;">참고 사항</mark>
+This provides the shortcut to the related information in the manual. Cross-references will be in quotation marks and in **bold type**.
 
-제품을 사용할 때 알아 두면 좋을 유용한 사항이나 추가적인 정보를 다음과 같이 제공합니다.
+* For details of making changes in date and time information, see “**4.5 Date and time setting**.” of “**Operation Manual for Hi6 Controller**” &#x20;
+
+### <mark style="color:green;">References</mark>
+
+Useful or additional information on using the product will be provided as follows:
 
 {% hint style="info" %}
-상태표시줄에 ![](../_assets/engineer.png)아이콘이 깜빡이면 엔지니어모드 상태입니다.
+The blinking of the ![](../_assets/engineer.png)icon in the status bar indicates the engineer mode.
 {% endhint %}

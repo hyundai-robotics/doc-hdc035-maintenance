@@ -1,16 +1,26 @@
-﻿# 4.3.7 티치 펜던트
+# 4.3.7 Teach pendant
 
-티치 펜던트(Teach Pendant TP600)로 협동로봇을 직접 조작하고 동작 및 설정 상태를 확인합니다.
+The teach pendant (TP600) directly manipulates the collaborative robot and checks its state of operation and setting.
 
-![그림 44 티치 펜던트](../../_assets/tp.png)
+![Figure 44 Teach pendant](../../_assets/tp.png)
 
-티치 펜던트는 소형 컴퓨터 모듈(miniH6COM, EBC-GF53)과 이더넷 통신으로 연결되며 주요 기능은 다음과 같습니다.
+The teach pendant is connected with the microcomputer module (miniH6COM, EBC-GF53) through Ethernet communication and has major functions as follows:
 
-* **모니터링**: 작업 프로그램, 각축 데이터, 입출력 신호, 로봇 상태 등
-* **이력 관리**: 시스템 버전, 가동 시간, 에러 이력, 정지 이력 등
-* **파일 관리**: 버전 & 티칭 프로그램 업/다운
-* **각종 변수 설정**: 사용자 환경, 제어, 로봇, 응용, 자동 정수 등
-* **로봇 티칭**: 조그 & 티칭 프로그램 등록
-* **로봇 조작**: MOTOR ON, START, STOP, MODE 설정
+*   **Monitoring**: operating program, data of the axes, I/O signals, robot state, etc.
 
-티치 펜던트에는 사용자의 안전을 위하여 3단 인에이블링 스위치와 비상 정지 스위치 등이 장착되어 있습니다. 또한, 티치 펜던트의 하단에는 USB 연결 포트(A type)가 있어 USB 메모리 스틱 등을 이용하여 파일을 저장하거나 다운로드할 수 있습니다. 티치 펜던트를 사용하는 방법에 대한 자세한 내용은 “[**Hi6 제어기 조작 설명서**](https://hyundai-robotics.gitbook.io/hi6-operation-manual)”와 “[**협동로봇 안전 기능 설명서**](https://hyundai-robotics.gitbook.io/cobot-safety-function/)”를 참조하십시오.
+
+*   **History management**: system version, operating time, error history, stoppage history, etc.
+
+
+*   **File management**: upload/download of versions and teach programs
+
+
+*   **Parameter setting**: user environment, control, robot, application, automatic integer setting, etc.
+
+
+*   **Robot teaching**: registration of jog and teaching programs
+
+
+* **Robot operation**: motor on, start, stop, and mode setting
+
+The teach pendant has a three-step enabling switch, an emergency stop switch, etc. for user safety. At its lower part, it has a USB connection port (Type A) for storing or downloading files to USB memory sticks, etc. For more details on how to use the teach pendant, see the “[**Operation Manual for Hi6 Controllers**](https://hyundai-robotics.gitbook.io/hi6-operation-manual/v/op-english/)” and the “[**Safety Function Manual for Collaborative Robots**.](https://hyundai-robotics.gitbook.io/cobot-safety-function/v/sf-english/)”

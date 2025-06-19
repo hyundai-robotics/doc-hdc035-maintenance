@@ -1,3 +1,3 @@
-﻿# 품질 보증
+# Quality Assurance
 
-{% embed url="https://hyundai-robotics.gitbook.io/quality-assurance" %}
+{% embed url="https://hyundai-robotics.gitbook.io/quality-assurance/v/qa-english" %}

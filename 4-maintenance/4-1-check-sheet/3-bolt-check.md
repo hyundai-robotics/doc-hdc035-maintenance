@@ -1,22 +1,24 @@
-﻿# 4.1.3 볼트 점검
+# 4.1.3 Bolt check
 
-주요 점검 볼트와 볼트의 권장 체결 토크를 확인하십시오. 점검 볼트는 로봇이 수행하는 작업에 따라 다르므로 자세한 내용은 고객지원팀에 문의하십시오.
+Check on the major bolts and the recommended fastening torques. Because the bolts to be checked vary depending on operations carried out by the robot, contact our Customer Support Team for more details.
 
-토크 렌치를 이용하여 각 축의 통합 구동 모듈 취부 볼트를 적정 토크로 조인 후 페인트로 마킹하십시오.
+Fasten the bolts mounting the integrated driving module of each axis with a torque wrench to adequate torques, and mark them with paint.
 
-* S축 점검 부위 - 볼트: 10 X M5-18 / 토크: 8.2 Nm (83 kgf·cm)
+
+
+* S-axis parts to be checked – Bolts : 10 X M5-18 / torque: 8.2 Nm (83 kgf/cm)&#x20;
 
 ![](../../_assets/image100.png)
 
-* H축 점검 부위 - 볼트: 10 X M6-20 / 토크: 13.82 Nm (141 kgf·cm)
+* H-axis parts to be checked – Bolts : 10 X M6-20 / torque: 13.82 Nm (141 kgf/cm)
 
 ![](../../_assets/image101.png)
 
-* V축 점검 부위 - 볼트: 10 X M5-20 / 토크: 8.2 Nm (83 kgf·cm)
+* V-axis parts to be checked – Bolts : 10 X M5-20 / torque: 8.2 Nm (83 kgf/cm)
 
 ![](../../_assets/image102.png)
 
-* R2축 점검 부위 - 볼트: 10 X M4-25 / 토크: 4.02 Nm (41 kgf·cm)
+* R2-axis parts to be checked – Bolts : 10 X M4-25 / torque: 4.02 Nm (41 kgf/cm)
 
 ![](../../_assets/image103.png)
 
@@ -24,6 +26,6 @@
 
 ![](../../_assets/image104.png)
 
-* R1축 점검 부위 - 볼트: 6 X M4-10 접시머리(12.9) / 토크: 4.02 Nm (41 kgf·cm)
+* B-axis parts to be checked – Bolts : 8 X M4-20 / torque: 4.02 Nm (41 kgf/cm)
 
 ![](../../_assets/image105.png)

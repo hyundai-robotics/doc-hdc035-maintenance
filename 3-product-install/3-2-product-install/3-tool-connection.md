@@ -1,24 +1,26 @@
-﻿# 3.2.3 툴 연결
+# 3.2.3 Tool connection
 
-협동로봇에 원하는 툴을 결합합니다.
+Connect a necessary tool to the manipulator.
 
-1\. 협동로봇 툴 플랜지의 연결부를 확인하십시오.
+1\. Check the connection port of the tool flange of manipulator.
 
 ![](../../_assets/tool\_connect\_1.png)
 
-2\. 협동로봇의 툴 플랜지에 툴을 끼운 후 육각 렌치 볼트(M6 (12.9), 4개)와 핀(ø6)을 이용하여 툴을 툴 플랜지에 고정하십시오.
+2\.  Insert the tool into the tool flange, and fixate the tool to the flange by using hex wrench bolts (M6 (12.9), four pieces) and pins (ø6).
 
-* 볼트의 적정 체결 토크는 127 kgf cm입니다.
+* The proper tightening torque of the bolts is 127 kgf/cm.
 
 ![](../../_assets/tool\_connect\_2.png)
 
-3\. 툴 플랜지의 연결 단자에 툴 I/O 케이블과 이더캣 케이블을 연결하십시오.
+3\. To the connectors of the tool flange, connect the tool I/O cable and the EtherCAT cable.
 
-* 공압 라인을 사용하려면, 원터치 피팅(M5)을 조립한 후 호스(Ф3.2, 2개)를 에어 아웃렛에 연결하십시오.
+* If a pneumatic line needs to be used, assemble the one-touch fittings (M5), and connect the hoses (Ф3.2, two pieces) to the air outlets.
 
 ![](../../_assets/tool\_connect\_3.png)
 
 {% hint style="info" %}
-* 사용하는 툴에 따라 로봇에 결합하는 방법이 다를 수 있습니다. 툴 결합 방법에 대한 자세한 내용은 각 툴의 설명서를 찹조하십시오.
-* 툴 I/O와 이더캣의 핀맵은 “[**3.3.1 툴 플랜지 연결부**](../3-3-robot-interface/1-tool-flange-connection-point/)”를 참조하십시오.
+* The connection methods may vary depending on the tools to be used. For more details of the tool connection method, see the manual of the tool.
+*   For more details of the tool I/O and the pin map of EtherCAT, see “[**3.3.1 Tool flange connection point**.](../3-3-robot-interface/1-tool-flange-connection-point/)”
+
+
 {% endhint %}

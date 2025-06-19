@@ -1,26 +1,28 @@
-﻿# 4.3.2.2 로봇 시스템용 입출력 신호 연결(TBSYS1)
+# 4.3.2.2 Connection of I/O signals for the robot system (TBSYS1)
 
-로봇 시스템 전용의 입출력 신호는 안전 제어 모듈의 터미널 블록 TBSYS1을 통하여 연결됩니다.
+The I/O signals dedicated to the robot system are connected through TBSYS1, the terminal block of the safety control module.
 
-![그림 29 로봇 시스템용 입출력 신호 연결(TBSYS1)](../../../_assets/image110.png)
+![Figure 29 Connection of I/O signals for the robot system (TBSYS1)](../../../_assets/image110.png)
 
-\* 3 \~ 8, 11 \~ 16번 핀은 제어 시스템 내부에서 전용 신호로 사용됩니다.
+\* The pins 3 through 8 and 11 through 16 are used as dedicated signals inside the control system.
 
-| **번호** |   **이름**  | 　　　　　　　**용도**                            |
-| :----: | :-------: | ---------------------------------------- |
-|    1   |  SF\_POW1 | 보호 정지 입력 common (채널1)                    |
-|    2   |  SF\_POW2 | 보호 정지 입력 common (채널2)                    |
-|    3   |  SF\_POW1 | 비상 정지 입력 common (채널1) - 제어함 비상 정지 스위치 연결 |
-|    4   |  SF\_POW2 | 비상 정지 입력 common (채널2) - 제어함 비상 정지 스위치 연결 |
-|    5   |  IN\_POW1 | PRIN 입력 common                           |
-|    6   |  IN\_POW2 | 예비 신호 입력 common                          |
-|    7   |  SF\_GND1 | PRON 출력 common                           |
-|    8   |  SF\_GND2 | 예비 신호 출력 common                          |
-|    9   |    SG1    | 보호 정지 입력(채널1)                            |
-|   10   |    SG2    | 보호 정지 입력(채널2)                            |
-|   11   |    ES1    | 비상 정지 입력(채널1)- 제어함 비상 정지 스위치 연결          |
-|   12   |    ES2    | 비상 정지 입력(채널2)- 제어함 비상 정지 스위치 연결          |
-|   13   |   /PRIN   | Precharge 릴레이 상태 입력                      |
-|   14   |  RSV\_IN2 | 예비 신호 입력                                 |
-|   15   |   /PRON   | Precharge 릴레이 동작 출력                      |
-|   16   | RSV\_OUT2 | 예비 신호 출력                                 |
+| **No.** |  **Name** | 　　　　　　　**Usage**                                                                                     |
+| :-----: | :-------: | ---------------------------------------------------------------------------------------------------- |
+|    1    |  SF\_POW1 | Protective stop input common (Channel 1)                                                             |
+|    2    |  SF\_POW2 | Protective stop input common (Channel 2)                                                             |
+|    3    |  SF\_POW1 | Emergency stop input common (Channel 1) - Connection of the emergency stop switch of the control box |
+|    4    |  SF\_POW2 | Emergency stop input common (Channel 2) - Connection of the emergency stop switch of the control box |
+|    5    |  IN\_POW1 | PRIN input common                                                                                    |
+|    6    |  IN\_POW2 | Reserved signal input common                                                                         |
+|    7    |  SF\_GND1 | PRON output common                                                                                   |
+|    8    |  SF\_GND2 | Reserved signal output common                                                                        |
+|    9    |    SG1	   | Protective stop input&#xD; (Channel 1)                                                               |
+|    10   |    SG2    |  Protective stop input (Channel 2)                                                                   |
+|    11   |    ES1    | Emergency stop input (Channel 1) - Connection of the emergency stop switch of the control box        |
+|    12   |    ES2    | Emergency stop input (Channel 2) - Connection of the emergency stop switch of the control box        |
+|    13   |   /PRIN   | Precharge relay state input                                                                          |
+|    14   |  RSV\_IN2 | Reserved signal input                                                                                |
+|    15   |   /PRON   | Precharge relay actuation output                                                                     |
+|    16   | RSV\_OUT2 | Reserved signal output                                                                               |
+
+

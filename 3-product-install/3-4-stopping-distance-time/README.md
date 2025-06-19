@@ -1,8 +1,16 @@
-﻿# 3.4 정지 거리 및 정지 시간
+# 3.4 Stopping distance and time
 
-로봇 시스템의 확장, 속도, 부하를 설정하여 정지 거리 및 정지 시간을 측정합니다.
+You can measure the stopping distance and time of the robot system by setting its extension, speed, and load.
 
-* 확장(Extension): E=33%, 66%, 100%
-* 속도(Speed): S=33%, 66%, 100%
-* 부하(Load): L=33%, 66%, 100% (YL005: 5 kg, YL012: 12 kg, YL015: 15 kg)
-* 정지 카테고리(IEC60204-1 기준): 정지 0 (STOP 0), 정지 1 (STOP 1)
+*   Extension: 33%, 66%, 100%
+
+
+*   Speed: 33%, 66%, 100%
+
+
+*   Load: 33%, 66%, 100% (YL005: 5 kg, YL012: 12 kg, YL015: 15 kg)
+
+
+*   Stop categories: STOP0, STOP1 (per IEC60204-1)
+
+

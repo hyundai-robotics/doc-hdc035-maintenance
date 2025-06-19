@@ -1,2 +1,2 @@
-﻿# 3.1 설치 환경 및 준비
+# 3.1 Environment of installation and preparation
 

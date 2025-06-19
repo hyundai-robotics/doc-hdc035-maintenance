@@ -1,48 +1,95 @@
-﻿# 안전 주의 사항
+# Safety precautions
 
-제품의 올바른 사용과 사용자의 안전을 확보하고 재산상의 피해 방지를 위해 반드시 다음의 안전 주의 사항을 숙지한 후 제품을 사용하시기 바랍니다.
+To ensure proper product use and user safety and to prevent property damages, make sure to read and fully understand the following precautions before using the product.
 
-### <mark style="color:green;">위험</mark>
+### <mark style="color:green;">Danger</mark>
 
 {% hint style="danger" %}
-**\[위험] 긴박한 위험**: 준수하지 않았을 경우 작업자가 사망하거나 중상을 입을 수 있습니다.
+**\[Danger] impending risk**: If not conformed to, operator deaths or severe injuries may occur.
 {% endhint %}
 
-* 개별 장치가 아닌 전체 시스템을 대상으로 위험성 평가를 실시하십시오. 제품에 다른 장치를 연결하면 제품의 위험도가 높아지거나 새로운 위험이 발생할 수 있습니다. 로봇 통합 시스템의 각 장치의 위험도가 다를 경우에는 위험도가 가장 높은 장치를 기준으로 안전 장치를 마련하여 위험에 대비하십시오.
-* 설명서에 기술된 제품 설치 내용을 숙지하고 지시 사항을 준수하여 로봇 제품과 기타 장치를 설치하십시오.
-* 제품의 고장이나 파손 등 문제가 발생했을 경우 즉시 사용을 중단하고 고객지원팀에 문의하십시오.
+*   Perform a risk assessment on the entire system, not the individual devices. Connecting other devices to the product may increase the risk level of the product or create new risks. If the devices of the integrated robot system have different risk levels, prepare safety devices based on the device with the highest risk level in preparedness for risks.
 
-### <mark style="color:green;">경고</mark>
+
+*   In installing the robot product and other devices, make sure to read, fully understand, and conform to the product installation instructions described in the manual.
+
+
+*   In case of any issues of the product, such as faults and damages, stop using the product immediately and contact our Customer Support Team.
+
+
+
+### <mark style="color:green;">Warning</mark>
 
 {% hint style="warning" %}
-**\[경고] 잠재적인 위험**: 준수하지 않았을 경우 작업자가 상해를 입거나 제품이 크게 손상되는 등 재산상의 손해를 입을 수 있습니다.
+**\[Warning] Potential risk**: If not conformed to, operator injuries or property damages, including serious product damages, may occur.
 {% endhint %}
 
-* 위험성 평가 결과에 따라 적절한 안전 조치를 취하고 로봇 안전 설치 범위를 정확히 지정하십시오. 로봇 동작 중 제품이 손상되거나 사용자가 상해를 입을 수 있습니다.
-* 로봇 응용 시스템 제조자나 로봇 사용자는 설명서의 내용을 숙지하고 제품의 운영 교육을 이수하십시오.
-* 작업자와 사용자의 안전을 위해 제품 설치 전 반드시 안전 펜스 등 적절한 안전 시설을 마련하십시오.
-* 로봇 암이 자유롭게 움직일 수 있도록 충분한 공간을 확보하십시오. 설치 공간이 여유롭지 못하면 로봇 동작 중 제품이 손상되거나 사용자가 상해를 입을 수 있습니다.
-* 규격 정보를 확인하여 알맞은 고정 나사를 사용하여 지정된 토크로 체결하십시오. 나사가 헐거우면 로봇이 설치 장소에서 분리되어 추락하거나 손상될 수 있습니다.
-* 제품의 연결부(전원 및 케이블)에 액체나 먼지, 금속 가루 등의 전도성 이물질이 들어가지 않도록 주의하십시오. 또한 연결부를 뾰족한 물체로 찌르거나 케이블 연결 시 무리한 힘을 가하지 마십시오. 연결 단자의 부식 또는 일시적인 단락으로 제품이 폭발하거나 화재가 발생할 수 있습니다.
-* 배선 정보를 확인하고 장치 유형에 맞춰 알맞은 단자를 이용해 장치를 연결하십시오. 특히, 안전 장치는 일반 단자에 연결하면 안전 기능을 보장할 수 없으므로 반드시 안전 장치용 단자에 연결하십시오.
-* 손상된 케이블을 절대 사용하지 말고 제품 사용 중에는 전원을 분리하지 마십시오. 감전, 화재, 고장, 및 상해의 원인이 될 수 있습니다.
-* 제품을 장시간 사용하면 열이 발생하여 화상 등 상해의 위험이 있습니다. 제품을 만져야 할 경우에는 전원을 끄고 1시간 이상 방치하여 제품을 충분히 냉각한 후 작업하십시오.
-* 절대 무단으로 제품을 설치, 개조, 분해 및 수리하지 마십시오. 고장 및 사고의 원인이 될 수 있습니다. 또한 이로 인한 제품의 손상 및 파손에 대해 당사는 책임지지 않습니다.
+*   Take adequate safety measures according to the result of risk assessment, and accurately assign the safe range of robot installation. During the robot operation, product damages or user injuries may occur.
 
-### <mark style="color:green;">주의</mark>
+
+*   Persons who manufacture robot application systems or use the robot must read and fully understand the manual and undergo training in robot operation.
+
+
+*   For the safety of operators and users, prepare adequate safety facilities such as safety fences before installing the product.
+
+
+*   Secure sufficient space so that the robot arm can move freely. During the robot operation, product damages or user injuries may occur.
+
+    Fasten locking bolts to the specified torque according to the specification sheet. Loose bolts may lead to damages of the robot because of falling from the installation position.
+
+
+*   Pay attention to the product connections (power and cables) so that no conductive substances, such as liquid, dust, and metal particles, could infiltrate. Do not poke the connection with sharp objects or apply excessive force during cable connection. Corrosion or temporary short circuits of connectors may lead to product explosion or fires.
+
+
+*   Check the wiring specification and connect devices with terminals that are suitable for the device types. Make sure to connect safety devices to dedicated terminals because connecting them to general terminals does not guarantee safety functions.
+
+
+*   Never use damaged cables and do not disconnect cables while the product is in use. Doing so may lead to electric shocks, fires, faults, and injuries.
+
+
+*   Long-time use of the product may lead to overheating and cause injuries such as burns. In the event it is necessary to touch the product, cool down the product sufficiently by powering it off and leaving it for at least one hour.
+
+
+*   Never arbitrarily install, modify, disassemble, or repair the product. This may lead to faults and accidents. Hyundai Robotics will not take responsibility for product damages caused by such arbitrary actions.
+
+
+
+### <mark style="color:green;">Caution</mark>
 
 {% hint style="warning" %}
-**\[주의] 저위험 요소**: 준수하지 않았을 경우 작업자가 경미한 상해를 입거나 제품이 손상되는 등 재산상의 손해를 입을 수 있습니다.
+**\[Caution] Minor risk**: If not conformed to, minor operator injuries or property damages, including product damages, may occur.
 {% endhint %}
 
-* 제품을 임의로 설치 또는 개조, 분해, 수리하지 마십시오. 또한 당사의 전문가 이외의 사람이 임의로 제품을 개조하거나 부품을 부착하는 행위를 금합니다. 이로 인한 제품 고장 발생 시 무상 서비스 및 품질 보증 서비스를 받을 수 없습니다.
-* 제품을 설치 및 수리할 때에는 고객지원팀에 문의하여 전문가에게 의뢰하십시오.
-* 먼지가 많거나 더러운 곳에 제품을 설치 및 사용하지 마십시오. 먼지나 이물질로 인해 제품이 고장 나거나 성능에 이상이 발생할 수 있습니다.
-* 자성이 있거나 자성의 영향이 미치는 곳 또는 전자파 장해가 있는 곳에 제품을 설치 및 사용하지 마십시오. 자성에 의해 제품이 손상되거나 성능에 이상이 발생할 수 있습니다.
-* 제품 운전 시에는 헐거운 옷이나 장신구를 착용하지 말고, 머리카락이 긴 경우에는 뒤로 묶어 로봇의 관절 등에 끼이지 않도록 주의하십시오.
-* 제품 동작 중에는 작동 범위 내에 들어가거나 로봇을 만지지 마십시오. 상해의 위험이 있습니다.
-* 제품은 포장된 상태로 운반하여 파손을 피하고 습도가 낮은 건조한 장소에 보관하십시오. 포장 자재 내부에 습기로 제품이 손상되거나 고장 날 수 있습니다.
-* 제품은 온도와 습도가 변하기 쉬운 곳을 피하고, 깨끗하고 서늘하며 건조한 곳에 보관하십시오.
-* 제품 운반 시에는 올바 자세를 유지하고 두 명 이상이 함께 작업하십시오. 허리나 팔, 다리 등의 신체 부위에 상해를 입을 수 있습니다.
-* 리프팅 장비를 이용해 제품을 운반하는 경우에는 해당 국가 및 지역의 안전 규정 및 장비 사용 지침을 준수하십시오.
-* 설명서의 운반 내용을 숙지하고 지시 사항을 준수하여 제품을 운반하십시오. 고객의 제품 운송으로 발생한 제품의 손상 및 파손에 대해 당사는 책임지지 않습니다.
+*   Do not arbitrarily install, modify, disassemble, or repair the product. It is prohibited for persons other than experts from Hyundai Robotics to modify or attach parts to the product. Product faults caused by it will void free-of-charge services and warranty services.
+
+
+*   In the event it is necessary to install or repair the product, contact our Customer Support Team to consign the work to experts.
+
+
+*   Do not install or use the product at a place filled with dust or dirt. Dust or foreign matters may lead to product faults or malfunctions.
+
+
+*   Do not install or use the product at a place of magnetism, a place which is affected by magnetism, or a place of electromagnetic interferences. Magnetism may lead to product damages or malfunction.
+
+
+*   In operating the product, do not wear loose clothes or accessories. If you have long hair, you should tie it at the back of your head so it will not entangle between joints and the like of the robot.
+
+
+*   While the product is in operation, do not enter its operating range or touch the robot. Doing so may lead to injuries.
+
+
+*   Transport the product as it is packaged to prevent product damages, and store it at a dry and low-humidity place. Storing it at a humid place may lead to product damages or faults caused by moisture infiltration.
+
+
+*   Store the product at a place that is clean, cool, dry, and free from high variation in temperature and humidity.
+
+
+*   The product should be moved by two or more persons, and the correct posture should be maintained. If not, the persons may be subject to physical injuries in the waist, arms, legs, and the like.
+
+
+*   In moving the product using lifting equipment, conform to the local and national safety regulations and the instructions for equipment use.
+
+
+*   Before moving the product, read and conform to the moving instructions specified in the manual. Hyundai Robotics will not take responsibility for product damages caused during transportation by the customer.
+
+

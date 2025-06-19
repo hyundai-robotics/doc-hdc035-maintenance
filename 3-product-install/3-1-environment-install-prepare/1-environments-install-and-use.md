@@ -1,15 +1,27 @@
-﻿# 3.1.1 설치 및 사용 환경
+# 3.1.1 Environments of installation and use
 
-설치 및 사용 환경 조건을 고려하여 알맞은 장소에 제품을 설치합니다.
+Install the product at an adequate place in consideration of the requirements for the environments of installation and use.
 
-* 제품의 적정 사용 온도는 0℃ \~ 45℃이고, 적정 보관 습도는 20 \~ 85%RH입니다.
-* 제품을 옮기거나 사용할 때에는 떨어뜨리는 등 강한 충격을 주지 마십시오.
-* 제품의 무게에 따라 올바른 방법으로 안전에 유의하여 제품을 운반 및 설치하십시오.
-* 제품이 쉽게 전복되지 않는 단단하고 평평한 곳, 진동이 없는 곳에 제품을 설치하고 사용하십시오.
-* 물이나 습기, 가스, 먼지 등의 이물질이 많거나 더러운 곳에 제품을 설치 및 사용하지 마십시오.
-* 인화성 및 부식성 물질이나 가스가 있는 곳, 열이 발생하는 곳 또는 화기 주변에 제품을 설치 및 사용하지 마십시오.
-* 강한 전기적 노이즈 발생원이 있거나 그 영향이 미치는 곳에 제품을 설치 및 사용하지 마십시오.
+*   The adequate temperature of use for the product is 0°C–45°C, and the adequate storage humidity is 20%–85% RH.
+
+
+*   In moving or using the product, avoid causing high-impact contact, for example, by dropping it.
+
+
+*   Based on the weight of the product, move and install it using the correct method, while paying attention to safety.
+
+
+*   Install and use the product on a hard, flat, and no-vibration surface where the product cannot easily tumble.
+
+
+*   Do not install and use the product at a place with plenty of water, moisture, gas, dust, or dirt.
+
+
+*   Do not install and use the product at a place with flammable or corrosive materials/gases, high heat, or flames.
+
+
+* Do not install and use the product at a place with sources of strong electric noises or a place subject to the influence of such sources.
 
 {% hint style="warning" %}
-**\[주의]**: 권장하는 장소에 제품을 설치하지 않을 경우 제품의 성능 및 수명이 감소될 수 있습니다. 권장 사항을 준수하여 제품을 설치 및 사용하십시오.
+**\[Caution]**: Installing the product at an inadvisable place may lead to a decrease in product performance and service life. Conform to the recommendations in installing and using the product.
 {% endhint %}

@@ -1,51 +1,65 @@
-﻿# 3.4.2 정지1 (STOP1)
+# 3.4.2 STOP1
 
-STOP1 시, 축별 확장값과 속도에 따른 모델별 정지 거리와 정지 시간은 다음과 같습니다.
+At STOP1, the stopping distance and time of the models at different axial extension and speed values are as follows:
+
+
 
 ## <mark style="color:green;">YL005</mark>
 
-* 확장(Extension): E=33%, 66%, 100%
-* 속도(Speed): S=33%, 66%, 100%
-* 부하(Load): L=33%
+*   Extension: E=33%, 66%, 100%
 
-![](../../_assets/stop1\_yl005\_1.png)
 
-* 부하(Load): L=66%
+*   Speed: S=33%, 66%, 100%
 
-![](../../_assets/stop1\_yl005\_2.png)
 
-* 부하(Load): L=100%
+* Load: L=33%
 
-![](../../_assets/stop1\_yl005\_3.png)
+![](<../../_assets/image_17.png>)
+
+* Load: L=66%
+
+![](<../../_assets/image_16.png>)
+
+* Load: L=100%
+
+![](<../../_assets/image_15.png>)
 
 ## <mark style="color:green;">YL012</mark>
 
-* 확장(Extension): E=33%, 66%, 100%
-* 속도(Speed): S=33%, 66%, 100%
-* 부하(Load): L=33%
+*   Extension: 33%, 66%, 100%
 
-![](../../_assets/stop1\_yl012\_1.png)
 
-* 부하(Load): L=66%
+*   Speed: 33%, 66%, 100%
 
-![](../../_assets/stop1\_yl012\_2.png)
 
-* 부하(Load): L=100%
+* Load: L=33%
 
-![](../../_assets/stop1\_yl012\_3.png)
+![](<../../_assets/image_19.png>)
+
+* Load: L=66%
+
+![](<../../_assets/image_20.png>)
+
+* Load: L=100%
+
+![](<../../_assets/image_21.png>)
 
 ## <mark style="color:green;">YL015</mark>
 
-* 확장(Extension): E=33%, 66%, 100%
-* 속도(Speed): S=33%, 66%, 100%
-* 부하(Load): L=33%
+*   Extension: E=33%, 66%, 100%
 
-![](../../_assets/stop1\_yl015\_1.png)
 
-* 부하(Load): L=66%
+*   Speed: S=33%, 66%, 100%
 
-![](../../_assets/stop1\_yl015\_2.png)
 
-* 부하(Load): L=100%
+* Load: L=33%
 
-![](../../_assets/stop1\_yl015\_3.png)
+![](<../../_assets/image_22.png>)
+
+* Load: L=66%
+
+![](<../../_assets/image_23.png>)
+
+* Load: L=100%
+
+![](<../../_assets/image_24.png>)

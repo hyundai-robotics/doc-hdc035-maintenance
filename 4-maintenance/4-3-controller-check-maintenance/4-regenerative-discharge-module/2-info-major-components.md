@@ -1,11 +1,11 @@
-﻿# 4.3.4.2 주요 부품 정보
+# 4.3.4.2 Information on major components
 
-회생 방전 보드에는 과전류에 대한 부품의 보호를 위해 퓨즈 및 회생저항을 사용합니다. 퓨즈는 보드의 상단과 회생저항 상단에, 저항은 보드의 하단에 부착됩니다. 내부 구성과 구성품들의 사양은 다음의 그림 및 표를 참조하십시오.
+The regenerative discharge board uses fuses for protecting components against overcurrent and a regenerative discharge resistor. The fuses are mounted at the upstream of the board and at the upstream of the regenerative discharge resistor, while the resistor is mounted at the downstream of the board. For the inside composition and component specifications, see the following figure and table.
 
-![그림 39 회생 방전 모듈](../../../_assets/image120.png)
+![Figure 39 Inside view of the RDM](<../../../_assets/image_29.png>)
 
-|     **부품**     | 　　　　　　　　　**용도**         |  **사양**  |
-| :------------: | ----------------------- | :------: |
-|      써멀 퓨즈     | 회생 동작 과전류 및 회생 저항 과열 보호 | 15A, 93℃ |
-| 입력단 과전류 보호용 퓨즈 | 입력 전원 과전류 보호            | 58V, 20A |
-|      회생 저항     | 회생 동작을 위한 방전용 저항        | 5Ω, 100W |
+|                        **Component**                       | 　　　　　　　　**Usage**                                                                                                | **Specification** |
+| :--------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------- | :---------------: |
+|                        Thermal fuse                        | Protection from the overcurrent of regenerative operation and overheating of the regenerative discharge resistor |     15 A, 93°C    |
+| Fuse for protecting from overcurrent of the input terminal | Protection from the overcurrent of input power                                                                   |     58 V, 20 A    |
+|               Regenerative discharge resistor              | Resistor for discharging regenerative current                                                                    |     5 Ω, 100 W    |

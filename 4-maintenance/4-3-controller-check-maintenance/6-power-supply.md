@@ -1,9 +1,9 @@
-﻿# 4.3.6 전원 장치
+# 4.3.6 Power supply
 
-협동로봇을 안정적으로 구동하기 위해 DC48V와 DC24V 출력의 SMPS와 버퍼 모듈을 사용합니다.
+For the stable driving of the collaborative robot, SMPSs and buffer modules of the outputs of 48 V DC and 24 V DC are used.
 
-| **구성품** | \*\* \*\*　**용도** | 　　　　　　　**사양**                                                                                |
-| :-----: | ---------------- | -------------------------------------------------------------------------------------------- |
-|  SMPS1  | 모터 드라이브용 전원 장치   | <ul><li>2,000W, DC48V</li><li>RSP-2000-48, 295(L) x 127(W) x 41(H) mm, 1.95 kg</li></ul>     |
-|  SMPS2  | 제어용 전원 장치        | <ul><li>320W, 24V</li><li>RSP-320-24, 215(L) x 115(W) x 30(H) mm, 0.9 kg</li></ul>           |
-|  BUFFER | 제어용 전원 버퍼        | <ul><li>DC24V, 40A</li><li>QUINT4-BUFFER/24DC/40, 125(L) x 130(W) x 56(H) mm, 1 kg</li></ul> |
+| **Component** | 　　　　  **Usage**                | 　　　**Specification**                                                                         |
+| :-----------: | ------------------------------ | -------------------------------------------------------------------------------------------- |
+|     SMPS1     | Power supply for motor driving | <ul><li>2,000W, DC48V</li><li>RSP-2000-48, 295(L) x 127(W) x 41(H) mm, 1.95 kg</li></ul>     |
+|     SMPS2     | Power supply for controlling   | <ul><li>320W, 24V</li><li>RSP-320-24, 215(L) x 115(W) x 30(H) mm, 0.9 kg</li></ul>           |
+|     BUFFER    | Power buffer for controlling   | <ul><li>DC24V, 40A</li><li>QUINT4-BUFFER/24DC/40, 125(L) x 130(W) x 56(H) mm, 1 kg</li></ul> |

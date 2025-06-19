@@ -1,38 +1,46 @@
-﻿# 3.2.2 로봇 및 제어기 설치
+# 3.2.2 Robot and controller installation
 
-1\. 협동로봇을 설치할 위치의 설치면의 콘크리트 두께를 확인하십시오. 콘크리트 두께에 따라 시공 준비를 해야 합니다.
+1\. Check the concrete thickness of the surface on which the collaborative robot will be installed. Follow the procedure below according to the concrete thickness.
 
-* 두께가 200 ㎜ 이상인 경우, “[**3.2.2.1 마운팅 플레이트 설치**](1-mounting-plate-install.md)”를 참조하여 로봇을 설치할 위치에 마운팅 플레이트를 고정하십시오.
-* 두께가 200 ㎜ 이하인 경우에는 고객지원팀에 문의하여 별도의 기초 공사를 진행하십시오.
+*   If it is ≥200 mm, fixate the mounting plate at the robot installation point, referring to “[**3.2.2.1 Mounting plate installation**.](1-mounting-plate-install.md)”
 
-2\. 협동로봇을 설치할 위치에 올려 놓으십시오.
+
+* If it is ≤200 mm, consult with our Customer Support Team and carry out additional foundation work.
+
+2\. Put the Manipulator on the installation point.
 
 ![](../../../_assets/install\_1.png)
 
 {% hint style="warning" %}
-**\[경고]**: 협동로봇은 독립적으로 설 수 없으므로 설치 시에는 2인 이상의 작업자가 함께 작업하십시오. 한 작업자가 로봇이 넘어지지 않도록 잡은 상태에서 다른 작업자가 고정할 수 있습니다.
+**\[Warning]**: Because the manipulator cannot stand by itself, the installation requires two or more workers. While one worker holds the robot, the other worker(s) should fixate it.
 {% endhint %}
 
-3\. 육각 렌치 볼트(M8 (12.9), 4개)를 이용하여 협동로봇을 고정하십시오.
+3\. Using hex wrench bolts (M8 (12.9), four pieces), fixate the manipulator.
 
 ![](../../../_assets/install\_2.png)
 
-* 볼트의 적정 체결 토크는 340 kgf cm입니다.
-* 위치 결정 핀(Ф6, 2개)을 이용하면 협동로봇을 특정 위치에 정확하게 설치할 수 있습니다.
-* 접지선을 연결하면 정전기 발생을 방지할 수 있습니다.
-* YL005와 YL015의 설치 위치 정보는 YL012와 동일합니다.
+*   The proper tightening torque of the bolts is 340 kgf/cm.
+
+
+*   If positioning pins are used (Ф6, two pieces), installing the manipulator will be accurate at a desired specific point.
+
+
+*   Connecting an earth cable will prevent electrostatic discharge.
+
+
+* The information on the installation positions of YL005 and YL015 is the same as that of YL012.
 
 {% hint style="warning" %}
-**\[경고]**: 로봇 동작 중 볼트가 풀리지 않도록 단단히 죄어 고정하십시오.
+**\[Warning]**: Tighten the bolts firmly so that do not become loose during robot operation.
 {% endhint %}
 
-4\. 로봇 베이스가 설치면에 완전히 밀착되었는지 확인하십시오.
+4\. Ensure that the robot base is in full contact with the installation surface.
 
-5\. 협동로봇의 설치 공간을 확인하고 적절한 곳에 로봇 제어기를 놓아 두십시오.
+5\. Check the installation space of the manipulator, and place the robot controller at a proper point.
 
 {% hint style="warning" %}
-**\[주의]**
+**\[Caution]**
 
-* 서늘하고 건조한 곳에 제어기를 위치하고 습기에 노출되거나 물에 젖지 않도록 주의하십시오.
-* 공기가 순환할 수 있도록 제어기 주변에 충분한 여유 공간을 확보하십시오. 또한 제어기 앞면과 뒷면의 환풍구와 냉각팬을 막는 장애물이 없어야 합니다.
+* Place the controller at a cool and dry place, and keep it away from moisture or water.
+* Allow sufficient buffer space around the controller for air circulation. Ensure that no obstacles block the vent hole and the cooling fan on the front and the rear of the controller.
 {% endhint %}

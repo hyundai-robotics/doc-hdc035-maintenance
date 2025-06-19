@@ -1,5 +1,5 @@
-﻿# 3.1.3 손목축 부하 허용치
+# 3.1.3 Allowable limit of wrist axis load
 
-협동로봇의 손목축 선단에 부착될 부하는 허용 중량, 허용 부하 토크, 허용 관성 모멘트에 의해 규제됩니다. 모델별 손목축 부하 허용치는 다음과 같습니다.
+The load to be applied to the tip of the wrist axis of a collaborative robot is regulated by the allowable weight, load torque, and moment of inertia. The allowable limits of wrist axis load of the models are as follows:
 
-![](../../_assets/wrist\_limit.png)
+![](<../../_assets/image_40.png>)

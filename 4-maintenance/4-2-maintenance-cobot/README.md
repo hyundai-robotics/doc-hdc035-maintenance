@@ -1,2 +1,2 @@
-﻿# 4.2 협동로봇 보수
+# 4.2 Maintenance of the collaborative robot
 

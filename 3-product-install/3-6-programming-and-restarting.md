@@ -1,8 +1,11 @@
-﻿# 3.6 프로그램 및 재기동
+# 3.6 Programming and restarting
 
-전원 입력 시 로봇 시스템이 정상적으로 부팅되고 안전에 문제가 없으면 프로그램 및 재기동할 수 있습니다.
+If the robot system boots up normally upon powering on, and if there are no safety issues, you can carry out programming and restarting.
 
-로봇은 자가진단을 통해 안전상의 문제 유무를 파악하고 로봇의 상태를 확인합니다. 이 과정이 완료되면 로봇의 일반 설정 및 협동 운전을 위한 안전 설정을 수행할 수 있습니다. 최종 설정 상태를 확인하고 프로그램 및 재기동하십시오.
+The robot will identify the existence of safety issues through self-diagnosis and check its conditions. After this process, you can configure the common setting of the robot and safety setting for collaborative operation. Check the final setting values, carry out programming, and restart it.
 
-* 로봇의 설정 및 작동 방법에 대한 자세한 내용은 “[**Hi6 제어기 조작 설명서**](https://hyundai-robotics.gitbook.io/hi6-operation-manual)”를 참조하십시오.
-* 협동 운전을 위한 안전 설정에 대한 자세한 내용은 “[**협동로봇 안전 기능 설명서**](https://hyundai-robotics.gitbook.io/cobot-safety-function/)”를 참조하십시오.
+*   For more details on how to set and operate the robot, see “[**Operation Manual for Hi6 Controllers**.](https://hyundai-robotics.gitbook.io/hi6-operation-manual/v/op-english/)”&#x20;
+
+
+* For the details on the safety setting of collaborative operation, see the “[**Safety Function Manual for Collaborative Robots**.](https://hyundai-robotics.gitbook.io/cobot-safety-function/v/sf-english/)”
+

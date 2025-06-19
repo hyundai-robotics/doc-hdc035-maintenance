@@ -1,8 +1,12 @@
-﻿# 1.2.4 비상 정지
+# 1.2.4 Emergency stop
 
-비상 정지 기능은 작업자 또는 다른 물체가 위험 지역에 진입하는 등 긴급 시나 비상 시에 작동합니다. 모든 비상 정지 스위치는 안전 영역 밖에서도 쉽게 접근할 수 있는 곳에 설치되어 있습니다.
+The emergency stop function is actuated in an emergency where a worker or object enters a hazard area. All the emergency stop switches are installed at places easily accessible from outside the safety areas.
 
-비상 정지 기능이 실행되면 어떠한 경우에서도 로봇은 즉시 동작을 정지합니다.
+When the emergency stop function is actuated, the robot will immediately stop moving in any case.
 
-* 로봇의 서보 시스템 전원이 차단되고 모터 브레이크가 동작합니다.
-* 티치 펜던트(Teach pendant)의 화면에 비상 정지 메시지가 나타납니다.
+*   The servo system power of the robot will be cut off, and the motor brake will be actuated.
+
+
+*   On the teach pendant screen, an emergency stop message will appear.
+
+

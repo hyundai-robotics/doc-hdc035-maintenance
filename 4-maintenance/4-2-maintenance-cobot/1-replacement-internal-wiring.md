@@ -1,16 +1,22 @@
-﻿# 4.2.1 기내 배선 교체
+# 4.2.1 Replacement of internal wiring
 
-협동로봇 내부의 배선은 3 개월 마다 주기적으로 점검하여 배선 및 케이블, 케이블 보호용 스프링의 손상 여부를 확인하고 문제가 있으면 즉시 교체 등의 보수 작업을 실시하십시오.
+Check the internal wiring of the collaborative robot at three-month intervals. Check on damaged wires, cables, and cable-protecting springs, and replace any defective parts immediately.
 
-* 작업 환경과 로봇의 가동 속도 및 연속 가동 여부에 따라 배선의 교체 주기는 달라질 수 있습니다.
-* 로봇의 주작업 및 사용 조건에 관계없이 16,000 시간 마다 케이블을 교환하십시오.
-* 배선은 유니트(Unit) 단위로 교체하십시오.
-* 협동로봇과 제어기 사이의 배선은 반드시 길이를 지정하여 수행하십시오.
+*   The wiring replacement intervals vary depending on operating conditions, the robot’s operating speed, and how long the robot operates continuously.
+
+
+*   Regardless of the major operation and operating conditions of the robot, replace the cables at the intervals of 16,000 hours.
+
+
+*   Replace wires in units.
+
+
+* Wiring between the collaborative robot and the controller must be carried out in the specified length.
 
 {% hint style="warning" %}
-**\[주의]**
+**\[Caution]**
 
-* 내부의 배선은 내굴곡성이 있는 케이블을 사용합니다. 지정된 유형의 전선만 사용하십시오.
-* 내부의 배선을 구입하려면 고객지원팀에 문의하여 배선 형식을 확인하십시오.
-* 케이블, 케이블 보호용 스프링 및 호스의 교체품은 미리 확인하여 파손 및 손상이 없는 것을 사용하십시오.
+* The internal wiring should be done with cables of bending resistance. Only use cables of the specified types.
+* For purchasing an internal cable, identify the wiring type by consulting with our Customer Support Team.
+* Before replacing cables, cable-protecting springs, or hoses, check that the replacement parts are not broken or damaged.
 {% endhint %}

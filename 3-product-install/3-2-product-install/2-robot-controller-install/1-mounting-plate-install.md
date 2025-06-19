@@ -1,18 +1,30 @@
-﻿# 3.2.2.1 마운팅 플레이트 설치
+# 3.2.2.1 Mounting plate installation
 
-협동로봇을 설치할 바닥의 강성은 로봇의 동적 영향을 최소화할 수 있도록 설계해야 합니다. 만약 설치면의 강성이 로봇 암을 지지하기에 부족하다면, 마운팅 플레이트(Mounting plate)를 이용하여 제품을 설치할 수 있습니다.
+The firmness of the floor on which the manipulator will be installed should be designed to minimize the dynamic impact of the robot. If the firmness of the installation surface is not sufficient for supporting the robot arm, a mounting plate for the product installation may be used.
 
 {% hint style="warning" %}
-**\[경고]**: 로봇의 설치면은 로봇 자체의 무게와 로봇 동작 시 발생하는 하중을 모두 견딜 만큼 견고해야 합니다.
+**\[Warning]**: The robot installation surface should be firm enough to bear both the weight of the robot and the load that occurs during robot operation.
 {% endhint %}
 
-1. 협동로봇을 설치할 위치의 면을 확인하고 요철이나 균열 등을 보수하십시오.
-2. 협동로봇을 설치할 위치에 마운팅 플레이트를 올려 놓으십시오.
-3. 마운팅 플레이트 상부 접촉면의 볼트 구멍에 앵커 볼트(M20)를 끼운 후 적정한 토크로 죄거나 망치로 두드려 고정하십시오. 앵커 볼트는 마운팅 플레이트의 접촉면에서 최대 0.2 ㎜ (±0.1 ㎜) 돌출되어 있어야 합니다.
+1.  Check the installation surface of the collaborative robot, and remove any uneven points, cracks, and others.
+
+
+2.  Place the mounting plate on the surface on which the manipulator will be installed.
+
+
+3. Pass the anchor bolts (M20) through the bolt holes of the top contacting surface of the mounting plate, and fixate them by fastening to an adequate torque or by hammering them. The anchor bolts should not protrude from the contacting surface of the mounting plate by no more than 0.2 mm (±0.1 mm).
+
+
 
 ![](../../../_assets/mounting\_plate.png)
 
-* 나머지 부분의 평면도는 ±0.2 ㎜ 내이어야 합니다.
-* 마운팅 플레이트 4 매의 평면도는 0.2 ㎜ 이내로 하여 주십시오.
-* 마운팅 플레이트 접촉면 4군데 평면도는 0.2 ㎜ (±0.1 ㎜) 이내로 하여 주십시오.
-* 필요한 경우 심(Shim)을 이용하여 틈을 조정할 수 있습니다.
+*   The flatness of the other areas should be no more than ±0.2 mm.
+
+
+*   The flatness of the four sheets of the mounting plates should be no more than 0.2 mm.
+
+
+*   The flatness of the four contacting surfaces of the mounting plates should be no more than 0.2 mm (±0.1 mm).
+
+
+* Fill any gaps with shims when necessary.

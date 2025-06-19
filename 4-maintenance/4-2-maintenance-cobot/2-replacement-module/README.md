@@ -1,3 +1,3 @@
-﻿# 4.2.2 통합 구동 모듈 교체
+# 4.2.2 Replacement of the integrated driving module
 
-당사에서 교육을 이수한 자격이 있는 전문가가 통합 구동 모듈의 교체를 수행해야 합니다. 통합 구동 모듈을 교체할 때에는 고객지원팀에 문의하여 전문가에게 의뢰하십시오.
+Replacement of the integrated driving module must be carried out by qualified experts who have taken the relevant training provided by Hyundai Robotics. In the event it is necessary to replace the integrated driving module, contact our Customer Support Team to consign the work to experts.

@@ -1,59 +1,59 @@
-﻿# 1.2.3 안전 레이블
+# 1.2.3 Safety labels
 
-제어기의 내외부에는 명판과 경고 표시, 안전 기호 등이 부착되어 있습니다. 부착된 레이블을 확인하여 안전을 확보하십시오.
+On the inside and outside of the controller, nameplates, warning signs, safety symbols, and the like are attached. Check the labels to ensure safety.
 
-![그림 1 안전 레이블 부착 위치: 전면과 윗면(좌) / 뒷면(우)](../../_assets/safety\_labels\_1.png)
+![Figure 1 Safety label attachment points: front and top (left) / rear (right)](../../_assets/safety\_labels\_1.png)
 
-![그림 2 안전 레이블 부착 위치: 외측면(좌) / 내측면(우)](../../_assets/safety\_labels\_2.png)
+![Figure 2 Safety label attachment points: side (left) / inner side (right)](../../_assets/safety\_labels\_2.png)
 
-#### ![](../../_assets/1.png) 전원 및 접지 연결 주의 사항
+#### ![](../../_assets/1.png) Caution for Power and Grounding
 
-![국문 레이블 (좌) / 영문 레이블 (우)](<../../_assets/image_27.png>)
+![Korean (left) / English (right)](<../../_assets/image_6.png>)
 
-#### ![](../../_assets/2.png) 고전압 표시
+#### ![](../../_assets/2.png) High voltage Indication
 
-![국문 레이블 / 영문 레이블](<../../_assets/image_29.png>)
+![Korean / English](<../../_assets/image_7.png>)
 
-#### ![](../../_assets/3.png) 입력 전원 표시
+#### &#x20;![](../../_assets/3.png) Input power Indication
 
-![국문 레이블 / 영문 레이블](<../../_assets/image_25.png>)
+![Korean / English](<../../_assets/image_9.png>)
 
-#### ![](../../_assets/4.png)공기 순환구 주의 사항
+#### ![](../../_assets/4.png)Air irculation of ventiduct&#xD; precautions
 
-![국문 레이블 (좌) / 영문 레이블 (우)](<../../_assets/image_11.png>)
+![Korean (left) / English (right)](<../../_assets/image_8.png>)
 
-#### ![](../../_assets/5.png)NRTL 인증 마크
+#### ![](../../_assets/5.png)NRTL Certification mark
 
-![국문 레이블 / 영문 레이블](../../_assets/image26.png)
+![Korean / English](../../_assets/image26.png)
 
-#### ![](../../_assets/6.png)명판
+#### ![](../../_assets/6.png)Nameplate
 
-![국문 레이블 (좌) / 영문 레이블 (우)](<../../_assets/image_30.png>)
+![Korean (left) / English (right)](<../../_assets/image_10.png>)
 
-#### ![](../../_assets/7.png)고전압 경고
+#### ![](../../_assets/7.png)high voltage&#xD; Warning&#xD;
 
-![국문 레이블 (좌) / 영문 레이블 (우)](<../../_assets/image_10.png>)
+![Korean (left) / English (right)](<../../_assets/image_11.png>)
 
-#### ![](../../_assets/8.png)설치 주의 사항
+#### ![](../../_assets/8.png)Installation precautions
 
-![국문 레이블 (좌) / 영문 레이블 (우)](<../../_assets/image_32.png>)
+![Korean (left) / English (right)](<../../_assets/image_12.png>)
 
-#### ![](../../_assets/9.png)기능 안전 인증 마크
+#### ![](../../_assets/9.png)Functional safety Certification mark
 
-![국문 레이블 / 영문 레이블](../../_assets/image37.png)
+![](../../_assets/image37.png)
 
-#### ![](../../_assets/10.png)접지선 연결 주의 사항
+#### ![](../../_assets/10.png)Ground wire connection precautions
 
-![국문 레이블 (좌) / 영문 레이블 (우)](<../../_assets/image_19.png>)
+![Korean (left) / English (right)](<../../_assets/image_13.png>)
 
-#### ![](../../_assets/11.png)접지 표시
+#### ![](../../_assets/11.png)Ground mark&#xD;
 
-![국문 레이블 / 영문 레이블](../../_assets/image42.jpeg)
+![Korean / English](../../_assets/image42.jpeg)
 
 {% hint style="warning" %}
-**\[경고]** : 제어기에 부착된 명판, 경고 표시, 안전 기호, 명칭 표시, 전선 마크 등의 위치를 옮기거나 페인트칠 및 커버를 씌워 가리는 행위 등 안전 레이블에 손상을 주는 일체의 행위를 금합니다.
+**\[Warning]** : Never engage in behaviors that damage safety labels, such as moving the position of the nameplate, warning signs, safety symbols, nomenclature markings, cable markings, and the like attached to the controller. In addition, do not hide these labels by putting paint or covers.
 {% endhint %}
 
 {% hint style="warning" %}
-**\[주의]** : 로봇의 설치 영역 및 위험 지역은 형태나 색상, 스타일에서 차이를 두어 다른 시설 및 기기와 명확히 구분되도록 표시하십시오.
+**\[Caution]** : Indicate the robot installation areas and hazard areas with distinct shapes, colors, or styles so that they are clearly distinguished from other facilities and equipment.
 {% endhint %}

@@ -1,17 +1,35 @@
-﻿# 1.4 잠재적 위험
+# 1.4 Potential risk
 
-로봇과 연동된 통합 시스템의 위험성 평가에서 로봇의 안전 관련 기능만으로 위험 요소가 충분히 제거되지 않았다는 결과가 도출되었을 경우에는 반드시 추가 보호 대책을 수립해야 합니다.
+In the risk assessment of an integrated robot system, if the assessment result indicates that risk factors are not sufficiently removed only by the robot’s safety functions, additional protective measures must be established.
 
-추가 보호 대책 수립 시 고려해야 할 사항은 다음과 같습니다.
+In establishing additional protective measures, the following should be considered:
 
-* 설치 시 로봇 베이스와 설치대 사이에 손가락 끼임(협착)
-* 작업 영역 내의 장애물 및 툴의 날카로운 가장자리나 뾰족한 부분에 의한 상해(찔림, 관통 등)
-* 로봇과의 충돌에 의한 상해(멍, 넘어짐, 골절 등)
-* 로봇 주변의 장애물에 의한 상해(찔림, 관통, 골절 등)
-* 체결 부위가 완전히 고정되지 않아 발생할 수 있는 상해
-* 독성이 있는 물질 및 유해 물질 작업 시 발생할 수 있는 상해(피부 손상, 호흡 곤란 등)
-* 갑작스러운 전원 중단으로 툴에서 작업물 이탈
-* 다른 장비의 비상 정지 스위치와 혼동하여 발생하는 실수
-* 안전 관련 기능 설정의 임의 변경에 의한 오류 등
+*   Finger pinching (entanglement) between the robot base and the installation support during installation
 
-발생 가능한 위험의 유형은 시스템 구성에 따라 다르므로 통합 시스템을 사용하기 전에는 반드시 위험성 평가를 실행하십시오.
+
+*   Injuries (such as poking and piercing) caused by sharp edges or protruding parts of obstacles or tools in the operating area
+
+
+*   Injuries caused by collision with the robot (such as bruises, falling, and bone fractures)
+
+
+*   Injuries caused by obstacles around the robot (such as poking, piercing, and bone fractures)
+
+
+*   Injuries caused by loose connections
+
+
+*   Injuries caused by toxic or hazardous substances under work (such as skin damage and breathing disorders)
+
+
+*   Displacement of objects under work caused by abrupt power shutoffs
+
+
+*   Erroneous activation of emergency stop switches caused by confusion with those of other equipment
+
+
+*   Errors caused by arbitrary modification of the Set up of safety functions
+
+
+
+Because the types of potential risks vary depending on system compositions, a risk assessment must be carried out before using an integrated robot system.

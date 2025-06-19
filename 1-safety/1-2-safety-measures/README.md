@@ -1,3 +1,3 @@
-﻿# 1.2 안전 대책
+# 1.2 Safety measures
 
-제품에 내장된 안전 기능과 사용자와 작업자의 안전을 확보하기 위한 대책에 대해 설명합니다.
+This section describes the safety functions embedded into the product and the measures for ensuring the safety of users and operators.

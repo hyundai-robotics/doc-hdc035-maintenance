@@ -1,9 +1,23 @@
-﻿# 5.1.3 주의 사항
+# 5.1.3 Cautions
 
-* 운반에 적절한 자세로 로봇을 설정하고 포장된 상태로 운반하여 파손을 방지하십시오.
-* 협동로봇을 직접 운반할 경우에는 올바른 자세를 유지하십시오. 신체에 상해를 입을 수 있습니다.
-* 협동로봇을 직접 옮기고자 하는 경우에는 2인 이상이 동시에 들어 운반하십시오.
-* 2인 이상이 함께 작업할 경우에는 연결 부위에 손상을 줄 수 있으므로 주의하십시오.
-* 리프팅 장비를 이용해 협동로봇을 운반하는 경우에는 해당 국가 및 지역의 안전 규정 및 장비 사용 지침을 준수하십시오.
-* 포장 자재로 협동로봇을 감싸 운송하는 경우에는 건조한 장소에 보관하거나 흡습제와 함께 포장하십시오. 습기가 많은 장소에 보관할 경우 포장 자재 내부에 습기가 생겨 제품에 이상이 생길 수도 있습니다.
-* 보수 설명서의 관련 내용을 숙지하고 지시 사항을 준수하여 제품을 운반하십시오. 고객의 부주의, 조작 미숙 및 과실로 인한 제품의 손상 및 파손에 대해 당사는 책임지지 않습니다.
+*   Set the robot at an adequate posture for transportation and transport it in its packaging to prevent it from being damaged.
+
+
+*   In moving the collaborative robot manually, maintain the proper posture. If not done, the worker may incur physical injuries.
+
+
+*   To move the collaborative robot manually, two or more workers should lift it at the same time and then move it.
+
+
+*   When two or more workers move it at the same time, connections may be damaged. Therefore, take care not to damage them.
+
+
+*   In moving the collaborative robot using a crane, conform to the local and national safety regulations and the instructions for equipment use.
+
+
+*   After transporting the collaborative robot wrapped with packaging materials, store it at a dry place, or put moisture absorbent in the package. Storing the robot at a high-humidity place may create moisture inside the packaging material, which may cause product anomalies.
+
+
+*   Before moving the product, read and conform to the instructions specified in the maintenance manual. Hyundai Robotics will not take responsibility for product damages caused by the customer’s carelessness, unskillful operation, and other errors.
+
+

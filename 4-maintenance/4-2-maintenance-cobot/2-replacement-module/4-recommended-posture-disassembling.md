@@ -1,18 +1,20 @@
-﻿# 4.2.2.4 통합 구동 모듈 분해 시 추천 자세
+# 4.2.2.4 Recommended posture in disassembling the integrated driving module
 
-통합 구동 모듈 교체 시 축을 다음의 자세로 설정해 두면 용이하게 작업할 수 있습니다.
+In replacing the integrated driving module, setting the axis at the following posture will facilitate the disassembling work.
 
-예를 들어, YL012의 H축의 모듈을 교체한다면, 95도나 65도, 35도와 같이 기준 각도(95)에서 각도 간격(30)을 더하거나 뺀 만큼의 각도로 로봇을 움직여 자세를 잡아 두면 더욱 편하게 분해할 수 있습니다.
+For example, in replacing the module of the H-axis of YL012, the disassembling work will be easier if the robot’s posture is set at angles of 95°, 65°, or 35°, which are the angles at which the angular interval (30°) is added or subtracted from the reference angle (95°).
 
-| **모델** | **각도** | **S** | **H** | **V** | **R2** | **B** | **R1** |
-| :----: | :----: | :---: | :---: | :---: | :----: | :---: | :----: |
-|  YL005 |  기준 각도 | 관계 없음 | 관계 없음 |  -30  |   30   |  -15  |  관계 없음 |
-|        |  각도 간격 | 관계 없음 | 관계 없음 |   30  |   30   |   30  |  관계 없음 |
-|  YL012 |  기준 각도 |  -40  |   95  |  -140 |  108.5 |  63.5 |  관계 없음 |
-|        |  각도 간격 |   30  |   30  |   30  |   30   |   30  |  관계 없음 |
-|  YL015 |  기준 각도 |  -40  |   95  |  130  |  -161  |   86  |  관계 없음 |
-|        |  각도 간격 |   30  |   30  |   30  |   30   |   30  |  관계 없음 |
+
+
+| **Model** |    **angle**    |      **S**     |      **H**     | **V** | **R2** | **B** |     **R1**     |
+| :-------: | :-------------: | :------------: | :------------: | :---: | :----: | :---: | :------------: |
+|   YL005   | Reference angle | Not applicable | Not applicable |  -30  |   30   |  -15  | Not applicable |
+|           |   Angular gap   | Not applicable | Not applicable |   30  |   30   |   30  | Not applicable |
+|   YL012   | Reference angle |       -40      |       95       |  -140 |  108.5 |  63.5 | Not applicable |
+|           |   Angular gap   |       30       |       30       |   30  |   30   |   30  | Not applicable |
+|   YL015   | Reference angle |       -40      |       95       |  130  |  -161  |   86  | Not applicable |
+|           |    Angulargap   |       30       |       30       |   30  |   30   |   30  | Not applicable |
 
 {% hint style="warning" %}
-**\[주의]**: 로봇을 구동할 수 없으면, 1차로 모듈을 분해한 후 브레이크 해제 모듈을 이용해 모듈을 회전시켜 분해하십시오.
+**\[Caution]**: If the robot cannot be driven, carry out the primary disassembling of the module, then rotate the module using the brake release module. Carry out the rest of the disassembling.&#x20;
 {% endhint %}

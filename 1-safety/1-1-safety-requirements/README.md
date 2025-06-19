@@ -1,2 +1,2 @@
-﻿# 1.1 안전 요구 사항
+# 1.1 Safety requirements
 

@@ -1,36 +1,36 @@
-﻿# 4.2.3 엔코더 백업 배터리 교체
+# 4.2.3 Encoder backup battery replacement
 
-시리얼 엔코더에 전용 배터리를 부착하여 제어기의 전원 공급 여부에 관계없이 각 축의 위치 데이터를 보존합니다. 배터리의 교체 주기는 2년입니다.
+A dedicated battery attached to the serial encoder retains the position data of each axis regardless of whether power is supplied to the controller. The battery should be replaced at two-year intervals.
 
-각 축의 배터리를 교체하는 방법은 다음과 같습니다.
+The method for replacing the encoder backup battery of each axis is as follows:
 
-1\. 제어기 전원이 켜져 있는 상태에서 비상 정지 스위치를 누르십시오.
+1\. While the controller power is on, press the emergency stop switch.
 
 {% hint style="warning" %}
-**\[주의]**: 엔코더 보정 전에는 운전 준비 ON을 설정하고 티치 펜던트의 인에이블링 스위치를 2 \~ 3초간 눌러 전원 연결 여부를 확인하십시오.
+**\[Caution]**: Before correcting the encoder offset, set the operation preparation at ON, and ensure that the power is connected by pressing the enabling switch of the teach pendant for two to three seconds.
 {% endhint %}
 
-2\. 각 축의 배터리 위치를 확인하고 토크 렌치로 볼트를 분리하여 프레임 커버를 분리하십시오.
+2\. Identify the position of the battery of each axis, and remove the frame cover of the battery by removing bolts with a torque wrench.
 
 ![](../../_assets/image106.png)
 
-|              **번호**              | **축** |          **커버**         |             **볼트**             |
-| :------------------------------: | :---: | :---------------------: | :----------------------------: |
-| ![](../../_assets/1.png) |   S   |    LOWER FRAME COVER    | <p>육각소켓볼트</p><p>(M3X6, 5개)</p> |
-| ![](../../_assets/2.png) |   H   | UPPER FRAME LOWER COVER | <p>육각소켓볼트</p><p>(M3X6, 5개)</p> |
-| ![](../../_assets/3.png) |   V   | UPPER FRAME UPPER COVER | <p>육각소켓볼트</p><p>(M3X6, 6개)</p> |
-| ![](../../_assets/4.png) |   R2  |     ARM FRAME COVER     | <p>육각소켓볼트</p><p>(M3X6, 5개)</p> |
-| ![](../../_assets/5.png) |   B   |      ARM PIPE COVER     | <p>육각소켓볼트</p><p>(M3X6, 6개)</p> |
-| ![](../../_assets/6.png) |   R1  |        HAND GRIP        |           M3 소경볼트(4개)          |
+|               **No**               | **Axis** |        **Cover**        |               **Bolts**               |
+| :--------------------------------: | :------: | :---------------------: | :-----------------------------------: |
+|  ![](../../_assets/1.png)  |     S    |    LOWER FRAME COVER    |  Hex socket bolts (M3X6, five pieces) |
+|  ![](../../_assets/2.png)  |     H    | UPPER FRAME LOWER COVER |  Hex socket bolts (M3X6, five pieces) |
+|  ![](../../_assets/3.png)  |     V    | UPPER FRAME UPPER COVER |  Hex socket bolts (M3X6, six pieces)  |
+|  ![](../../_assets/4.png)  |    R2    |     ARM FRAME COVER     |  Hex socket bolts (M3X6, six pieces)  |
+|  ![](../../_assets/5.png)  |     B    |      ARM PIPE COVER     |  Hex socket bolts (M3X6, six pieces)  |
+|  ![](../../_assets/6.png)  |    R1    |        HAND GRIP        | M3 small-diameter bolts (four pieces) |
 
-3\. 배터리의 단자 방향을 확인하고 새 배터리로 교체하십시오.
+3\. Identify the orientation of the battery terminals, and replace the old battery with a new one.
 
 {% hint style="warning" %}
-**\[주의]**
+**\[Caution]**
 
-* 지정된 사양의 배터리(ER6C (AA 3.6 V) / 제조사: Maxcell)만 사용하십시오.
-* 배터리의 단자 방향을 확인하여 제대로 끼우십시오.
-* 배터리를 재활용하거나 함부로 버리지 마십시오. 해당 국가 또는 지역의 관련 규정 및 법규에 따라 산업용 폐기물로 처리해야 합니다.
+* Only use the battery of the designated specifications (ER6C (AA 3.6 V) / manufacturer: Maxcell).
+* Identify the orientation of the battery terminals, and insert the battery correctly.
+* Do not recycle or arbitrarily dispose of the battery. The battery should be disposed of as an industrial waste according to the applicable national or local laws and regulations.
 {% endhint %}
 
-4\. 각 축에 프레임 커버를 끼운 후 토크 렌치와 볼트를 이용해 고정하십시오.
+4\. Put the frame cover on the axis, and fixate it by fastening bolts with a torque wrench.

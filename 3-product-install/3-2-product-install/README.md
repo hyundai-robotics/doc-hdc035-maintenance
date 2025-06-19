@@ -1,13 +1,13 @@
-﻿# 3.2 제품 설치
+# 3.2 Product installation
 
-자격이 있는 설치 전문가가 해당 국가 및 지역의 관련 규정 및 법규를 준수하여 제품을 설치해야 합니다.
+The product should be installed by qualified experts in compliance with the applicable laws and regulations of the pertaining country and locality.
 
-* 포장 해체 시, 운반이나 해체 과정에서 발생할 수 있는 제품의 손상 여부를 확인하십시오.
-* 포장 해체 후 제품을 설치하기 전에는, 반드시 안전 규정과 지시 사항, 제품의 설치 및 사용 환경 정보를 확인하고 설치 방법을 숙지하십시오.
+* Upon unpacking the product, check that the product was not damaged during transportation and unpacking.
+* after unpacking and before installing the product, make sure to check the safety regulations and instructions, as well as the requirements for the installation and use of the product. Make sure to be fully knowledgeable of the installation method.
 
 {% hint style="warning" %}
-**\[주의]**
+**\[Caution]**
 
-* ISO 10218-2의 지침에 따라 로봇을 설치하고 운영해야 하며 ISO/TS 15066와 같은 국제 표준 및 국내 법규의 관련 요건을 준수해야 합니다.
-* 국제 표준 및 국내 법규의 관련 요건을 준수하지 않거나, “**위험성 평가**”를 검토하지 않은 경우에 발생하는 사고에 대해서는 당사(또는 제조사)에서 책임지지 않습니다.
+* The robot should be installed and operated according to the guidelines specified in ISO 10218-2 and in compliance with the requirements specified in the applicable international standards, such as ISO/TS 15066 and national statutes.
+* Hyundai Robotics (or manufacturer) will not take responsibility for accidents caused by noncompliance with the applicable international standards and national statutes or non-review of “**Risk assessment**.”
 {% endhint %}

@@ -1,5 +1,5 @@
-﻿# 저작권
+# Copyright
 
-이 제품과 설명서에서 다루고 있는 모든 프로그램과 파일, 콘텐츠는 저작권 법과 비밀 유지 계약에 의하여 보호받고 있습니다. 현대로보틱스가 명시적으로 허용하지 않은 사용, 복사, 제 3자에의 공개 및 배포 등의 행위는 엄격히 금지됩니다.
+All the programs, files, and contents relating to this product and manual are protected by the Copyright Act and a confidentiality agreement. Any use, reproduction, and disclosure or distribution of this manual to third parties not explicitly permitted by Hyundai Robotics are strictly prohibited.
 
 Copyright ⓒ 2020 HYUNDAI ROBOTICS. All rights reserved.

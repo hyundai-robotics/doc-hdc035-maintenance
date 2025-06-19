@@ -1,2 +1,2 @@
-﻿# 6.1 구성도
+# 6.1 Block diagrams
 

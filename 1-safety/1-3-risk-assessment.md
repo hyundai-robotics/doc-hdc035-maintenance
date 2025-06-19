@@ -1,35 +1,47 @@
-﻿# 1.3 위험성 평가
+# 1.3 Risk assement
 
-로봇을 포함한 통합 시스템 구성에 있어 위험성 평가는 대부분의 국가에서 법적 필수 사항으로 다루고 있을 만큼 중요한 요소 중 하나입니다. 로봇이 시스템에 통합되는 방식에 따라 로봇 설치에 대한 안전 평가가 달라지므로 로봇 자체만으로는 통합 시스템의 위험성을 평가할 수 없습니다.
+In a system integration including robots, risk assessment is of great importance that most countries specify it as a statutory requirement. Because safety assessments of robot installation vary depending on methods for integrating robots into systems, the risks of robot integrated systems cannot be assessed only by robots alone.
 
-시스템 관리자는 ISO 12100 및 ISO 10218-2의 지침에 따라 시스템을 구성하고 운영하여 위험성 평가를 진행해야 합니다. 또한 기술 규격서 ISO/TS 15066을 참고할 수 있습니다.
+System administrators should carry out a risk assessment on the robot system according to the instructions specified in ISO 12100 and ISO 10218-2. The technical specifications  ISO/TS 15066 may also be referred to.
 
-로봇을 포함한 통합 시스템의 전체 프로세스를 고려하여 위험성 평가를 진행하십시오. 위험성 평가의 주요 목표는 다음과 같습니다.
+Perform risk assessment in consideration of the entire processes of the integrated system including robots. The major objectives of risk assessment are as follows:
 
-* 로봇 사용의 기본 설정 및 로봇 티칭
-* 문제 진단 및 유지 보수
-* 설치된 로봇의 정상 동작
+* Basic setting of robot use and robot teaching
+* Problem diagnosis and maintenance
+*   Normal operation of installed robots
 
-로봇을 설치하고 시스템을 구성한 후에는 반드시 위험성 평가를 실행해야 합니다. 위험성 평가에서는 로봇 통합 시스템의 안전 장치의 적절성을 비롯하여 추가 비상 정지 장치 및 다른 안전 장치의 필요성 등을 주로 판단합니다.
 
-적절한 안전 장치를 파악하여 로봇 통합 시스템을 올바르게 구성하는 것은 매우 중요합니다. 설명서 내에서 관련 내용을 참조하여 통합 시스템을 구성하십시오.
 
-협동로봇은 TCP 속도, 압력, 파워, 모멘텀, 충돌 검지, 감속비의 제한치, 조인트별 각도, 속도, 토크 등의 제한치 등을 설정할 수 있습니다. 또한, 안전 관련 I/O를 이용하여 안전 기능을 구성할 수 있습니다. 안전 기능 구성에 대한 자세한 내용은 “[**협동로봇 안전 기능 설명서**](https://hyundai-robotics.gitbook.io/cobot-safety-function/)”를 참조하십시오.
+After installing robots and composing the system, a risk assessment must be performed. In risk assessment, the major points to be determined include the adequacy of the safety devices of integrated robot systems and the necessity for additional emergency stop devices or other safety devices.
 
-**\[안전 기능]** 메뉴에서 협동로봇의 안전 관련 기능을 구성할 수 있으며 사용할 수 있는 기능은 다음과 같습니다.
+It is very important to compose robot integrated systems based on the identification of adequate safety devices. Compose robot integrated systems referring to the relevant details of the manual.
 
-* **포스 및 파워 제한**: 로봇과 작업자의 충돌을 대비하여 정지하는 힘과 압력을 제한
-* **운동량 제한**: 로봇과 작업자의 충돌을 대비하여 로봇의 동작 속도를 줄여 에너지와 충격 하중을 제한
-* **조인트 및 TCP 위치 제한**: 로봇이 사용자의 목이나 머리와 같은 특정 신체 부위로 이동하지 않도록 움직임을 제한
-* **TCP 및 툴 자세 제한**: 툴과 작업 부품의 특정 영역이나 특징과 관련된 위험을 줄이기 위해 움직임을 제한(예: 툴 또는 작업물의 날카로운 부분이 작업자를 향해 이동하는 것을 막기 위함)
-* **속도 제한**: 로봇과 작업자의 충돌을 대비하여 작업자가 충돌을 피할 시간을 제공하기 위해 로봇의 움직임이 저속으로 유지되도록 제한
+For collaborative robots, it is possible to set tool center point (TCP) speed, pressure, power, momentum, collision detection, limit values of reduction ratio, and limit values of joint-specific angles, speeds, and torques. In addition, safety functions can be set by using safety-related inputs/outputs (I/Os). For more details for the composition of safety functions, see the “[**Safety Function Manual for Collaborative Robots.**](https://hyundai-robotics.gitbook.io/cobot-safety-function/v/sf-english/)”
 
-이뿐만 아니라 로봇을 특정한 위치에 설치하거나 안전 I/O를 이용하여 안전 관련 기능을 구성할 수도 있습니다.
+In the **\[Safety functions]** menu, the safety-related functions of the collaborative robot can be set, including the following:
 
-로봇 통합 시스템의 위험성 평가 시 중요 항목은 다음과 같습니다.
+*   **Force and power limiting**: Limit the force and pressure at which the robot should stop in case of collision between the robot and an operator.
 
-* 로봇별 충돌 심각도
-* 로봇별 충돌 발생 가능성
-* 로봇별 충돌 회피 가능성
 
-통합 시스템 구성 시 로봇의 안전 관련 기능으로 위험 요소가 충분히 제거되지 않은 경우(예: 비협동로봇용 툴 사용 등)에는 위험성 평가를 통해 필요한 추가 보호 장치를 설치해야 합니다.
+*   **Momentum limiting**: Limit energy and impact load by decreasing the robot’s motion speed in case of collision between the robot and an operator.
+
+
+*   **Joint and TCP position limiting**: Limit the robot’s motion so that it does not move to body parts such as the user’s neck or head.
+
+
+*   **TCP and tool posture limiting**: Limit motion to reduce risks relating to specific sections or characteristics of tools and operating parts (e.g., sharp points of tools or objects under operation).
+
+
+* **Speed limiting**: Limit the speed of the robot to a low speed so that an operator can escape collision with the robot.
+
+In addition, safety-related functions can be composed by installing the robot at a specific location or using safety I/Os.
+
+The major categories of the risk assessment of robot integrated systems include the following:
+
+* Collision severity of robots
+* Collision probability of robots
+*   Collision avoidance probability of robots
+
+
+
+In integrating robot systems, if risk factors (e.g., use of tools unintended for collaborative robots) are not sufficiently removed by the robot’s safety functions, additional protective devices shall be installed according to the risk assessment.

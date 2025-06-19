@@ -1,8 +1,8 @@
-﻿# 4.3.3.2 주요 부품 정보
+# 4.3.3.2 Information on major components
 
-전원 충전 모듈은 돌입 전류를 방지하기 위하여 소형 전력용 저항을 사용하고 충전 계통에 직렬로 연결합니다. 충전 계통의 개폐는 시스템에 중요한 영향을 미칠 수 있으므로 상태 모니터링을 위해 안전용 릴레이를 사용합니다.
+The PPM utilizes small power resistors to prevent inrush current and is connected serially to the charging system. Because the opening/closing of the charging system may have a significant impact on the system, the PPM utilizes safety relays for state monitoring.
 
-|       **부품**      |       **용도**      | 　　　　　　**사양**                                                                      |
-| :---------------: | :---------------: | --------------------------------------------------------------------------------- |
-| 돌입 전류 방지용 저항(RC1) | 사전 충전 시 돌입 전류의 방지 | <ul><li>PQR10 10Ω</li><li>10W (Ceramic Wire Wound Resistor)</li></ul>             |
-|    안전용 릴레이(SR1)   |  사전 충전 계통의 개폐 동작  | <ul><li>V23047-A1024-A501</li><li>5A, 250VAC</li><li>Force-guided Relay</li></ul> |
+|                 **Component**                |                    **Usage**                    | 　　　**Specification**                                                              |
+| :------------------------------------------: | :---------------------------------------------: | --------------------------------------------------------------------------------- |
+| Resistor for preventing inrush current (RC1) | Prevention of inrush current during precharging | <ul><li>PQR10 10Ω</li><li>10W (Ceramic Wire Wound Resistor)</li></ul>             |
+|              Safety relay (SR1)              |    Opening/closing of the precharging system    | <ul><li>V23047-A1024-A501</li><li>5A, 250VAC</li><li>Force-guided Relay</li></ul> |

@@ -1,23 +1,25 @@
-﻿# 3.3.2 외부 장치 인터페이스
+# 3.3.2 External device interface
 
-제어기 정면의 외부 장치 인터페이스를 이용하여 다양한 외부 장치를 연결할 수 있습니다.
+You can connect various external devices to the external device interface on the front of the controller.
 
-![그림 19 외부 장치 인터페이스](../../../_assets/external\_device\_interface.png)
+![Figure 19 External device interface](../../../_assets/external\_device\_interface.png)
 
-|                            **번호**                           | 　　　　　　　　　　　**설명** |
-| :---------------------------------------------------------: | ----------------- |
-|             ![](../../../_assets/1.png)             | LAN 연결 포트         |
-|             ![](../../../_assets/2.png)             | USB 연결 포          |
-|             ![](../../../_assets/3.png)             | D-SUB 커넥터         |
-| <ul><li>9 핀(COM1, COM2): 직렬 통신(RS485, 422, RS232)</li></ul> |                   |
-|          <ul><li>25 핀(SDIO): 범용 안전 신호 입출력</li></ul>         |                   |
-|             ![](../../../_assets/4.png)             | 터미널 블록            |
-|              <ul><li>TB1: 범용 아날로그 입출력</li></ul>             |                   |
-|              <ul><li>TB2: 전용 안전 신호 입력</li></ul>             |                   |
-|             <ul><li>TB3: 범용 디지털 신호 입출력</li></ul>            |                   |
-|                                                             |                   |
+|                 **No**                | 　　　　　　　　　**Description**                                                                                                                                    |
+| :-----------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  ![](../../../_assets/1.png)  | LAN port                                                                                                                                                    |
+|  ![](../../../_assets/2.png)  | USB port                                                                                                                                                    |
+|  ![](../../../_assets/3.png)  | <p>D-SUB connectors
+</p><ul><li>9-pi_assets serial communication (RS485, 422, 232)
+</li><li>25-pin (SDIO): common digital I/O
+</li></ul>            |
+|  ![](../../../.gitbook/assets/4.png)  | <p>Terminal blocks
+</p><ul><li>TB1: common analog I/O
+</li><li>TB2: dedicated safety signal input
+</li><li><p>TB3: system signal I/O
+</p><p>
+</p></li></ul> |
 
 {% hint style="info" %}
-* 외부 장치 인터페이스는 기본 연결 구성을 기준으로 설명합니다.
-* 부가 옵션품을 설치하고 외부 장치 인터페이스를 이용하여 연결하려면 기본 연결 구성을 변경하여 사용할 수 있습니다. 부가 옵션품의 설치 및 연결 구성에 대한 자세한 내용은 당사의 고객지원팀으로 문의하십시오.
+* The external device interface is described based on the composition of basic connections.
+* If you wish to install additional optional items and connect them to the external device interface, you may change the composition of basic connections. For more details on the installation of additional optional items and the composition of connections, consult with our Customer Support Team.
 {% endhint %}

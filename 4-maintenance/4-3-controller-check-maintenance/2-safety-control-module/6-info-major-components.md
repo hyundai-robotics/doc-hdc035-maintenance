@@ -1,8 +1,8 @@
-﻿# 4.3.2.6 주요 부품 정보
+# 4.3.2.6 Information on major components
 
-안전 제어 모듈은 안전 관리 사항으로 분류되어 현장 유지 보수를 허용하지 않습니다. 퓨즈를 제외한 주요 부품의 사양 정보는 제공하지 않습니다.
+The safety control module is not allowed to be subjected to maintenance because it is classified as a safety management item. Specification information on its major components other than the fuses is not provided.
 
-| **부품** |            **용도**            |                 **사양**                |
-| :----: | :--------------------------: | :-----------------------------------: |
-| F1, F3 | 안전 회로 전원(채널1, 2)의 과전류 보호용 퓨즈 | <p>3A</p><p>(Littelfuse 0453 003)</p> |
-|   F10  |     외부 IO 전원의 과전류 보호용 퓨즈     | <p>5A</p><p>(Littelfuse 0453 005)</p> |
+| **Component** |                                                    **Usage**                                                    |     **Specification**    |
+| :-----------: | :-------------------------------------------------------------------------------------------------------------: | :----------------------: |
+|     F1, F3    | <p>Fuses for preventing the overcurrent of </p><p>the power to the safety circuit </p><p>(Channels 1 and 2)</p> | 3A (Littelfuse 0453 003) |
+|      F10      |                <p>Fuse for preventing the overcurrent of </p><p>the power to the external I/O</p>               | 5A (Littelfuse 0453 005) |

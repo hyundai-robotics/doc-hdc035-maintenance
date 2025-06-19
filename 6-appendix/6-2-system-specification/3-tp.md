@@ -1,9 +1,9 @@
-﻿# 6.2.3 티치 펜던트
+# 6.2.3 Teach pendant
 
-|  **항목** |                    **사양**                    |
-| :-----: | :------------------------------------------: |
-|    중량   |                    1186 g                    |
-|    크기   | 223(W) x 291(H) x 73(D) mm (w / mode switch) |
-| 방진방수 등급 |                     IP 54                    |
-|  스크린 크기 |                      8”                      |
-|  케이블 길이 |                      5 m                     |
+|       **Division**       |                 **Specification**                |
+| :----------------------: | :----------------------------------------------: |
+|          Weight          |                      1186 g                      |
+|        Dimensions        | 223 (W) × 291 (H) × 73 (D) mm (with mode switch) |
+| Ingress protection grade |                       IP 54                      |
+|        Screen size       |                        8”                        |
+|       Cable length       |                        5 m                       |

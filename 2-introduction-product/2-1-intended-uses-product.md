@@ -1,12 +1,28 @@
-﻿# 2.1 제품 용도
+# 2.1 Intended uses of the product
 
-이 제품은 제품에 지정된 본래의 용도로만 사용할 수 있습니다. 본래 용도 이외의 다른 용도로 제품을 사용하는 것은 용도의 범위를 벗어나는 것으로 부적절한 행위로 간주됩니다. 이로 인해 발생하는 상해와 제품 손상 및 고장 등의 재산상의 손해는 현대로보틱스에서 책임지지 않습니다. 부적절한 사용의 예는 다음과 같습니다.
+This product may be used only for the specified intended uses. The use of this product for other purposes than the intended uses will be considered inappropriate behavior. Hyundai Robotics will not take responsibility for injuries or property losses, including product damages and faults caused by unintended uses of this product. Examples of improper uses of this product include the following:
 
-* 밟고 올라서기 위한 용도로 제품 사용
-* 사람 및 동물의 이송에 제품 사용
-* 의료 및 인명과 관련된 분야에서의 제품 사용
-* 폭발 위험이 있는 환경에서의 제품 사용
-* 위험성 평가 없이 제품 사용
-* 안전 기능의 성능이 충족되지 않은 상태에서의 제품 사용
-* 성능 및 환경 조건이 충족되지 않은 곳에서의 제품 사용
-* 국제 표준(IEC)보다 높은 수치의 전자기파가 방사되는 곳에서의 제품 사용(용접 등)
+*   Using the product as a means of stepping on
+
+
+*   Using the product for moving persons or animals
+
+
+*   Using the product in areas relating to health care and human lives
+
+
+*   Using the product in environments of explosion hazards
+
+
+*   Using the product without carrying out a risk assessment
+
+
+*   Using the product in conditions where the requirements for the performance of safety functions are not met
+
+
+*   Using the product at places where the performance and environmental requirements are not met
+
+
+*   Using the product (e.g., for welding) at places where electromagnetic waves higher than those specified in the international standard (IEC) is radiated
+
+

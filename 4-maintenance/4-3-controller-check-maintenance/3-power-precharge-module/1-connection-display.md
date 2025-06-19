@@ -1,17 +1,17 @@
-﻿# 4.3.3.1 연결 및 표시
+# 4.3.3.1 Connection and display
 
-전원 충전 모듈에서 사용되는 커넥터의 배치, 용도 및 접속 장치는 다음과 같습니다.
+The connector layout, usage, and connecting devices used by the PPM are as follows:
 
-| **커넥터** |          **용도**          |     **외부 연결 장치**     |
-| :-----: | :----------------------: | :------------------: |
-|  CNPM3  |   DC48V 출력 전원(모터용) 출력단   |  회생 방전 모듈(RDM) CNPM3 |
-|  CNPM4  |   DC48V 출력 전원(모터용) 입력단   |  안전 제어 모듈(SCM) CNPM3 |
-|  CNEP1  |   DC48V 소스 전원(모터용) 입력단   |  안전 제어 모듈(SCM) CNEP1 |
-|   CNPR  | 전원 충전 기능 제어 및 모니터링 신호 연결 | 안전 제어 모듈(SCM) TBSYS1 |
+| **Connector** |                                 **Usage**                                 |       **External connecting device**      |
+| :-----------: | :-----------------------------------------------------------------------: | :---------------------------------------: |
+|     CNPM3     |        Output terminal of the 48 V DC output power (for the motor)        | Regenerative discharge module (RDM) CNPM3 |
+|     CNPM4     |         Input terminal of the 48 V DC output power (for the motor)        |     Safety control module (SCM) CNPM3     |
+|     CNEP1     |         Input terminal of the 48 V DC source power (for the motor)        |     Safety control module (SCM) CNEP1     |
+|      CNPR     | Control of the power charge function and connection of monitoring signals |     Safety control module (SCM) TBSYS1    |
 
-전원 충전 모듈의 표시 정보는 다음과 같습니다.
+The details of the state display of the PPM are as follows:
 
-| **LED** | 　　　　　　　　　**용도**               | 　　　**표시 내용**                                       |
-| :-----: | ----------------------------- | -------------------------------------------------- |
-|  LEDY1  | 충전 계통 개폐용 릴레이에 대한 작동 명령 상태 표시 | <ul><li>점등: 충전 명령 중</li><li>소등: 미충전 명령 중</li></ul> |
-|  LEDG1  | 충전 계통 개폐용 릴레이의 동작 상태 표시       | <ul><li>점등: 충전 중</li><li>소등: 미충전 중</li></ul>       |
+| **LED** | 　　　　　**Usage**                                                                                               | 　　　**Display details**                                                                           |
+| :-----: | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
+|  LEDY1  | <p>Indication of the state of operating</p><p>command for the relays that open/close the charging system</p> | <ul><li>Lamp on: Under charging command</li><li>Lamp off: Not under charging command</li></ul> |
+|  LEDG1  | <p>Indication of the operating state of</p><p>the relays that open/close the charging system</p>             | <ul><li>Lamp on: Under charging</li><li>Lamp off: Not under charging</li></ul>                  |

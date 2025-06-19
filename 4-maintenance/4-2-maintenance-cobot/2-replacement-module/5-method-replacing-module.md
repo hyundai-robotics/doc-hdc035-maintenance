@@ -1,43 +1,43 @@
-﻿# 4.2.2.5 통합 구동 모듈 교체 방법
+# 4.2.2.5 Method for replacing the integrated driving module
 
-“[**6.1 구성도**](../../../6-appendix/6-1-block-diagrams/)”를 참조하여 축별 통합 구동 모듈의 위치와 구성을 먼저 확인하십시오.
+Referring to “[**6.1 Block diagrams**](../../../6-appendix/6-1-block-diagrams/)” first identify the position and composition of the integrated driving module of each axis.
 
-1\. 통합 구동 모듈을 교체할 축을 추천 자세에 맞게 움직이십시오.
+1\. Move the axis for which the integrated driving module will be replaced with the recommended posture.
 
-2\. 전원 차단기의 스위치를 내려 전원을 끄십시오.
+2\. Power off the module by turning off the power breaker.
 
-3\. 토크 렌치로 볼트를 분리하여 교체할 축의 앞 또는 뒤 프레임 커버를 분리하십시오.
+3\. Remove the bolts with a torque wrench, and remove the front or rear frame cover of the pertaining axis.
 
-4\. 통합 구동 모듈의 배선을 분리하십시오.
+4\. Disconnect the wires of the integrated driving module.
 
-5\. 공압 호스가 연결된 경우, 한쪽 부분을 자르십시오.
+5\. If it has a pneumatic hose, cut one end of the hose.
 
-6\. 서보 드라이브 쪽의 볼트를 토크 렌치로 분리하십시오.
-
-{% hint style="warning" %}
-**\[주의]**: 분리한 로봇의 파트는 평평한 바닥에 안전하게 놓아 두십시오.
-{% endhint %}
-
-7\. 감속기 부의 볼트를 토크 렌치로 분리하십시오.
-
-로봇을 추천 자세로 만들지 못했다면, 서보 드라이브의 브레이크 커넥터를 분리하여 브레이크를 해제한 후 강제로 모듈을 회전시켜 볼트를 분리하십시오.
-
-8\. 교체할 모듈의 조립면에 LOCTITE 518을 도포하십시오.
-
-9\. 기존의 모듈을 새 모듈로 교체하십시오.
-
-10\. 핀을 이용해 조립 위치를 맞춘 후 토크 렌치와 볼트를 이용해 새 모듈을 고정하십시오.
-
-11\. 통합 구동 모듈의 배선을 연결하십시오.
-
-12\. 원터치 스트레이트피팅(KQH23-00A1)를 이용해 5번 단계에서 자른 공압 호스를 연결하십시오.
-
-13\. 앞 또는 뒤 프레임 커버를 축에 끼운 후 토크 렌치와 볼트를 이용해 고정하십시오.
-
-14\. “[**Hi6 제어기 조작 설명서**](https://hyundai-robotics.gitbook.io/hi6-operation-manual)의 [**엔코더 옵셋**](https://hyundai-robotics.gitbook.io/hi6-operation-manual/7-setting/7-4-robot-parameter/encoder-offset)”을 참조하여 모듈을 교환한 축의 엔코더를 보정하십시오.
+6\. Remove the bolts at the servo drive side using a torque wrench.
 
 {% hint style="warning" %}
-**\[주의]**: 엔코더 보정 전에는 운전 준비 ON을 설정하고 티치 펜던트의 인에이블링 스위치를 2 \~ 3초간 눌러 전원 연결 여부를 확인하십시오.
+**\[Caution]**: Retain the removed robot parts securely on a flat floor.
 {% endhint %}
 
-15\. 로봇을 구동하여 제대로 동작하는지 확인하십시오.
+7\. Remove the bolts at the reducer with a torque wrench.
+
+If you failed to set the robot at the recommended posture, release the brake by removing the brake connector of the servo drive, forcibly rotate the module, and remove the bolts.
+
+8\. Apply Loctite 518 on the contacting surface of the replacement module.
+
+9\. Replace the old module with a new one.
+
+10\. Set the mounting position using the pin, and fixate the new module by fastening bolts with a torque wrench.
+
+11\. Connect the wires of the integrated driving module.
+
+12\. Using the one-touch straight fitting (KQH23-00A1), reconnect the pneumatic hose that was cut at Step 5.
+
+13\. Put the front or rear frame cover on the axis, and fixate it by fastening bolts with a torque wrench.
+
+14\. Referring to the “[**Encoder offset**](https://hyundai-robotics.gitbook.io/hi6-operation-manual/v/op-english/7-setting/7-4-robot-parameter/encoder-offset)” section of the “[**Operation Manual for Hi6 Controller**](https://hyundai-robotics.gitbook.io/hi6-operation-manual/v/op-english/),” correct the offset of the encoder of the axis of which the module has been replaced.
+
+{% hint style="warning" %}
+**\[Caution]**: Before correcting the encoder offset, set the operation preparation at ON, and ensure that the power is connected by pressing the enabling switch of the teach pendant for two to three seconds.
+{% endhint %}
+
+15\. Run the robot, and check that it operates normally.

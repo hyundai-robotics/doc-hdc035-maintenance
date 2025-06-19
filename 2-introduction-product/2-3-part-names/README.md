@@ -1,3 +1,3 @@
-﻿# 2.3 각부 명칭
+# 2.3 Part names
 
-제품 각 부분의 이름을 알아 두면 제품 설치 및 사용 방법을 확인할 때 유용합니다.
+Identifying the part names of the product is useful for learning how to install and use the product.

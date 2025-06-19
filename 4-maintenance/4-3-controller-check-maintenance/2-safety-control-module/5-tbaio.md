@@ -1,20 +1,20 @@
-﻿# 4.3.2.5 범용 아날로그 입출력 신호 연결(TBAIO)
+# 4.3.2.5 Connection of common digital I/O signals (TBAIO)
 
-범용 아날로그 입력은 TBAIO를 통하여 신호를 연결합니다(최대 2 개). 다음의 예에서는 외부 장치1은 GAIN0, 외부 장치2는 GAIN1에 입력되어 있습니다.
+Common analog input signals are connected through TBAIO (two at the maximum). In the following example, External Device 1 is input to GAIN0, and External Device 2 is input to GAIN1.
 
-![그림 34 범용 아날로그 입력 신호 연결(TBAIO)](../../../_assets/image115.png)
+![Figure 34 Connection of common digital input signals (TBAIO)](../../../_assets/image115.png)
 
-범용 아날로그 출력은 TBAIO를 통하여 신호를 연결합니다(최대 2 개). 다음의 예에서는 외부 장치1은 GAOUT0, 외부 장치2는 GAOUT1에 출력으로 부하가 동작됩니다.
+Common analog output signals are connected through TBDIO (two at the maximum). In the following example, the load of External Device 1 is operated through the output to GAOUT0, and the load of External Device 2 is operated through the output to GAOUT1.
 
-![그림 35 범용 아날로그 출력 신호 연결(TBAIO)](../../../_assets/image116.png)
+![Figure 35 Connection of common analog output signals (TBAIO)](../../../_assets/image116.png)
 
-| **번호** |  **이름**  | 　　　　　　　**용도**            |
-| :----: | :------: | ------------------------ |
-|    1   | GAIN0\_N | 범용 아날로그 입력 GAIN0의 Ground |
-|    2   | GAIN1\_N | 범용 아날로그 입력 GAIN1의 Ground |
-|    3   |  GND\_A  | 범용 아날로그 GND              |
-|    4   |  GND\_A  | 범용 아날로그 GND              |
-|    5   |   GAIN0  | 범용 아날로그 입력 0             |
-|    6   |   GAIN1  | 범용 아날로그 입력 1             |
-|    7   |  GAOUT0  | 범용 아날로그 출력 0             |
-|    8   |  GAOUT1  | 범용 아날로그 출력 1             |
+| **No** | **Name** | 　　　　　　　**Usage**                        |
+| :----: | :------: | --------------------------------------- |
+|    1   | GAIN0\_N | Ground of GAIN0 for common analog input |
+|    2   | GAIN1\_N | Ground of GAIN1 for common analog input |
+|    3   |  GND\_A  | Common analog GND                       |
+|    4   |  GND\_A  | Common analog GND                       |
+|    5   |   GAIN0  | Common analog input 0                   |
+|    6   |   GAIN1  | Common analog input 1                   |
+|    7   |  GAOUT0  | Common analog output 0                  |
+|    8   |  GAOUT1  | Common analog output 1                  |

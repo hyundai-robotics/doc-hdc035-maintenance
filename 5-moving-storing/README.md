@@ -1,3 +1,3 @@
-﻿# 5. 운반 및 보관
+# 5. Moving and storing
 
-협동로봇을 올바르게 운반 및 보관하는 방법에 대해 설명합니다.
+This section describes the proper methods for moving and storing a collaborative robot.

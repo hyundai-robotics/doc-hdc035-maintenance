@@ -1,20 +1,36 @@
-﻿# 3. 제품 설치
+# 3. Product installation
 
-설치 위치나 방향, 주위 공간의 크기 등을 고려하여 제품을 올바르게 설치하면 제품의 수명을 확보하고 성능 저하를 방지할 수 있습니다. 협동로봇의 설치 순서는 다음과 같습니다.
+Installing the product properly in consideration of installation location, orientation, and adjacent space can increase the product’s service life and prevent performance degradation. The installation sequence of the collaborative robot is as follows:
 
-1. 설치 및 사용 환경 확인
-2. 로봇의 작업 영역 확인
-3. 로봇의 손목축 부하 허용치 및 가반하중 확인
-4. 로봇 시스템 구성 및 설치
-5. 툴 연결
-6. 외부 장치 및 안전 장치 연결
-7. 로봇의 작업 영역 설정: 안전 정격 연성 축 및 공간 제한 기능, 정지 거리 및 정지 시간 적용
-8. 안전 기능 설정
-9. 로봇 시운전: 설정 및 안전 기능의 정상 동작 확인
+1.  Check the environments of installation and use.
+
+
+2.  Check the operating area of the robot.
+
+
+3.  Check the allowable limit of the wrist axis load and the payload of the robot.
+
+
+4.  Compose the robot system and install devices.
+
+
+5.  Connect a tool.
+
+
+6.  Connect external devices and safety devices.
+
+
+7.  Set the operating area of the robot, such as the function for using the safety-rated soft axis and space limiting function, stopping time and distance, etc.
+
+
+8.  Set safety functions.
+
+
+9. Verify the robot movement: Check that the setting and the safety functions run normally.
 
 {% hint style="warning" %}
-**\[주의]**
+**\[Caution]**
 
-* 제품 설치 전에 반드시 충분한 위험성 평가를 수행하고 평과의 결과를 바탕으로 안전 기능을 설정하십시오.
-* 안전 기능에 대한 자세한 내용은 “[**협동로봇 안전 기능 설명서**](https://hyundai-robotics.gitbook.io/cobot-safety-function/)”를 참조하십시오.
+* Before installing the product, make sure to carry out sufficient risk assessment and set the safety functions based on the result of the assessment.
+* For more details of the safety functions, see the “[**Safety Function Manual for Collaborative Robots**.](https://hyundai-robotics.gitbook.io/cobot-safety-function/v/sf-english/)”
 {% endhint %}

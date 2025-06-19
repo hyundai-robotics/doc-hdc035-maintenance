@@ -1,6 +1,10 @@
-﻿# 4.2.4 그리스 교체
+# 4.2.4 Grease replacement
 
-협동로봇은 하모닉 감속기를 사용하므로 주기적으로 그리스를 교체하지 않아도 됩니다.
+Because the collaborative robot uses harmonic reducers, it does not require grease replacement at regular intervals.
 
-* 로봇의 사용 환경에 따라 그리스를 교체해야 할 경우가 발생할 수 있으므로 주기적으로 감속기의 이음 및 온도를 점검하십시오.
-* 그리스를 교체하려면 통합 구동 모듈을 교체해야 합니다. 이 경우에는 고객지원팀으로 문의하십시오.
+*   However, because cases may occur where the grease should be replaced depending on the service environment of the robot, check on abnormal noise or temperature of the reducers at regular intervals.
+
+
+*   Grease replacement requires the replacement of the integrated driving module. If grease replacement is necessary, contact our Customer Support Team.
+
+
