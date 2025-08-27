@@ -94,6 +94,8 @@
     * [4.3.7 Teach pendant](4-maintenance/4-3-controller-check-maintenance/7-tp.md)
     * [4.3.8 PCI communication card (optional)](4-maintenance/4-3-controller-check-maintenance/8-pci/README.md)
       * [4.3.8.1 Connect pin map](4-maintenance/4-3-controller-check-maintenance/8-pci/1-connect-pin-map.md)
+    * [4.4 LED](4-maintenance/4-4-LED/README.md)
+      * [4.4.1 LED colors](4-maintenance/4-4-LED/1-LED-color-meaning.md)
 * [5. Moving and storing](5-moving-storing/README.md)
   * [5.1 Moving method](5-moving-storing/5-1-moving-method/README.md)
     * [5.1.1 Recommended posture](5-moving-storing/5-1-moving-method/1-recommend-posture.md)
