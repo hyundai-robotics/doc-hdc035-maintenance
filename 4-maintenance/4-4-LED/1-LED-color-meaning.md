@@ -1,4 +1,4 @@
-# 4.4.1 LED colors
+# 4.4.1 Robot Status by LED Color
 
 The LEDs mounted on the collaborative application’s base and flange indicate the robot’s status. The table below shows the robot's status based on LED color and blinking.
 
