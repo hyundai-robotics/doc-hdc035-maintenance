@@ -94,7 +94,7 @@
     * [4.3.7 티치 펜던트](4-maintenance/4-3-controller-check-maintenance/7-tp.md)
     * [4.3.8 PCI 통신 카드(옵션)](4-maintenance/4-3-controller-check-maintenance/8-pci/README.md)
       * [4.3.8.1 커넥터 핀 맵](4-maintenance/4-3-controller-check-maintenance/8-pci/1-connect-pin-map.md)
-    * [4.4 LED 색상](4-maintenance/4-4-LED/README.md)
+    * [4.4 협동로봇 LED](4-maintenance/4-4-LED/README.md)
       * [4.4.1 LED 색상별 로봇 상태](4-maintenance/4-4-LED/1-LED-color-meaning.md)
 * [5. 운반 및 보관](5-moving-storing/README.md)
   * [5.1 운반 방법](5-moving-storing/5-1-moving-method/README.md)
