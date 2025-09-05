@@ -1,31 +1,33 @@
 ﻿# 4.3.2.1 연결 및 표시
 
-컨트롤 보드 개요
+BD6F4 (Sensor Unit) 개요
 
-컨트롤 보드는 2차 엔코더, 센서 유닛, 제어기와의 통신을 담당하는 핵심 모듈이다. 외부 장치와의 안정적인 데이터 송수신을 위해 다양한 접속 장치를 제공한다.
+BD6F4 센서 유닛은 물체 탐지를 위한 mmWave 레이다 센서이다.
+로봇 내부에는 최대 4개까지 설치할 수 있으며, 필요 시 외장형 센서 모듈을 추가로 2개까지 확장 가능하다.
 
-접속 장치 구성
-
-2차 엔코더 포트 : 2차 엔코더 신호 입력 및 피드백 전송
-
-센서 유닛 인터페이스 : 레이더 센서 데이터 수집 및 모니터링
-
-제어기 통신 포트 : 상위 제어기와의 실시간 EtherCAT 통신 지원 
-
-컨트롤보드 이미지 삽입하기.
+커넥터 구성
 
 
-
-![그림 xx 컨트롤 유닛 BD6F3 ](../../../_assets/controlunitpcb.png)
-
+![그림 xx Sensor Unit BD6F4 ](../../../_assets/sensorunit_front.png)
+그림 xx Sensor Unit BD6F4 Front-side
 
 |   **커넥터**   | 　　　　　　**용도**                                                        |              ** 연결 장치**             |
 | :---------: | ------------------------------------------------------------------- | :-----------------------------------: |
-|   CN6A1P  | TOOL BOARD 연결 전원 입력 DC24V                            |              TOOL BOARD            |
-|    CN6A1E   | TOOL BOARD EtherCAT 통신용 커넥터                                 |           TOOL BOARD       |
-|    CNLED   | 1축 베이스 기구부 LED 커넥터 |           1축 베이스 기구부           |
-|     CNTMP1-4    | 1-4축 감속기 온도센서용 커넥터 포트                                                           |           로봇 케이블 연결 단자(CNM)           |
-|     J6     | 2차엔코더용 커넥터                    |          각 축 2차엔코더         |
-|    CN1-4,CN486    | 센서유닛용 전원 및 통신 케이블 (DC24V)                                             |              BD6F4(SENSOR UNIT)             |
-|    CN642E    | 상위 제어기와의 EtherCAT 통신용                                             |           BD642           |
-|    CN642P    | 상위 제어기로부터의 전원 공급 (DC 24V)                                        |             BD642             |
+|    SW1   | A Channel CAN terminal 저항(120ohm)   |           -       |
+|   SW6  | B Channel CAN terminal 저항(120ohm)     |           -            |
+|    U6   | A Channel mmWave MCU          |          -         |
+|    U16    | B Channel mmWave MCU        |          -        |
+
+
+
+
+![그림 xx Sensor Unit BD6F4 ](../../../_assets/sensorunit_back.png)
+그림 xx Sensor Unit BD6F4 Back-side
+
+|   **커넥터**   | 　　　　　　**용도**                                                        |              ** 연결 장치**             |
+| :---------: | ------------------------------------------------------------------- | :-----------------------------------: |
+|   J11  | 전원 커넥터(DC24V) 및 CAN A, CAN B Channel                            |              BD6F3(Control Unit)          |
+|    J12   | 전원 커넥터(DC24V) 및 CAN A, CAN B Channel                                |           <p>외장형 레이다 사용시 : BD6F4 (Sensor Unit)</p><p>미사용시 연결 X</p>       |
+|    SW3   | A Channel CAN ID |           -         |
+|    SW5   | B Channel CAN ID |           -         |
+
